@@ -68,12 +68,19 @@ for index, item in enumerate(news[:10], start=1):
         fill="white"
     )
 
-    draw.text(
-        (65, 1820),
-        "SHORT KHABAR",
-        font=small,
-        fill="white"
-    )
+# Instagram username and logo
+draw.rounded_rectangle(
+    (65, 1795, 430, 1885),
+    radius=25,
+    fill="#E1306C"
+)
+
+draw.text(
+    (90, 1815),
+    "◎ @khabar.short",
+    font=small,
+    fill="white"
+)
 
     frame = np.array(image)
 
