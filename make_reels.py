@@ -61,5 +61,5 @@ with imageio.get_writer(
         writer.append_data(frame)
 
 print("Silent Reel created:", filename)
-imageio[ffmpeg]
+
 numpy
