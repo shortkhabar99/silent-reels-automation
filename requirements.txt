@@ -2,3 +2,5 @@ requests
 feedparser
 Pillow
 python-dotenv
+imageio[ffmpeg]
+numpy
