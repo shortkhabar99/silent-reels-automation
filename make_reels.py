@@ -4,10 +4,12 @@ import os
 import textwrap
 import subprocess
 import glob
+import requests
 import imageio_ffmpeg
 
+from io import BytesIO
 from datetime import datetime
-from PIL import Image, ImageDraw, ImageFont
+from PIL import Image, ImageDraw, ImageFont, ImageOps
 import imageio.v2 as imageio
 import numpy as np
 
@@ -36,25 +38,51 @@ if not font_files:
     raise FileNotFoundError("Nepali font not found")
 
 nepali_font = font_files[0]
-
-# ENGLISH FONT
 english_font = "/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf"
 
-# LOAD FONTS
-headline_font = ImageFont.truetype(nepali_font, 62)
+headline_font = ImageFont.truetype(nepali_font, 58)
 category_font = ImageFont.truetype(nepali_font, 42)
-english_font_big = ImageFont.truetype(english_font, 42)
-english_font_small = ImageFont.truetype(english_font, 34)
+english_big = ImageFont.truetype(english_font, 42)
+english_small = ImageFont.truetype(english_font, 32)
 
 # CHECK MUSIC
 if not os.path.exists("news_music.mp3"):
     raise FileNotFoundError("news_music.mp3 not found")
 
-# FFMPEG
 ffmpeg = imageio_ffmpeg.get_ffmpeg_exe()
 timestamp = datetime.utcnow().strftime("%Y%m%d_%H%M%S")
 
-# CREATE REELS
+
+# DOWNLOAD NEWS PHOTO
+def download_photo(url):
+    if not url:
+        return None
+
+    try:
+        response = requests.get(
+            url,
+            timeout=15,
+            headers={"User-Agent": "Mozilla/5.0"}
+        )
+        response.raise_for_status()
+
+        photo = Image.open(BytesIO(response.content))
+        photo = photo.convert("RGB")
+
+        photo = ImageOps.fit(
+            photo,
+            (950, 600),
+            method=Image.Resampling.LANCZOS
+        )
+
+        return photo
+
+    except Exception as error:
+        print("Photo unavailable:", error)
+        return None
+
+
+# CREATE 10 REELS
 for index, item in enumerate(news[:10], start=1):
 
     image = Image.new("RGB", (WIDTH, HEIGHT), "#101827")
@@ -62,43 +90,69 @@ for index, item in enumerate(news[:10], start=1):
 
     # HEADER
     draw.rectangle((0, 0, WIDTH, 210), fill="#c90020")
+
     draw.text(
         (65, 65),
         "SHORT KHABAR",
-        font=english_font_big,
+        font=english_big,
         fill="white"
     )
 
     # CATEGORY
     draw.text(
-        (65, 330),
-        item["category"],
+        (65, 300),
+        item.get("category", "समाचार"),
         font=category_font,
         fill="#ffcc33"
     )
 
     # HEADLINE
-    headline = item["title"]
-    lines = textwrap.wrap(headline, width=22)
+    headline = item.get("title", "ताजा समाचार")
+    lines = textwrap.wrap(headline, width=25)
 
-    y = 550
+    y = 420
 
-    for line in lines[:9]:
+    for line in lines[:4]:
         draw.text(
             (65, y),
             line,
             font=headline_font,
             fill="white"
         )
-        y += 105
+        y += 95
+
+    # NEWS PHOTO
+    photo = download_photo(item.get("image", ""))
+
+    if photo:
+        image.paste(photo, (65, 900))
+        print("Photo added:", item.get("title", ""))
+    else:
+        draw.rounded_rectangle(
+            (65, 900, 1015, 1500),
+            radius=25,
+            fill="#263449"
+        )
+
+        draw.text(
+            (300, 1150),
+            "PHOTO NOT AVAILABLE",
+            font=english_small,
+            fill="white"
+        )
+
+        print("No photo:", item.get("title", ""))
 
     # FOOTER
-    draw.rectangle((0, 1650, WIDTH, 1920), fill="#c90020")
+    draw.rectangle(
+        (0, 1650, WIDTH, 1920),
+        fill="#c90020"
+    )
 
     draw.text(
         (65, 1730),
         "FOLLOW FOR MORE UPDATES",
-        font=english_font_small,
+        font=english_small,
         fill="white"
     )
 
@@ -112,7 +166,7 @@ for index, item in enumerate(news[:10], start=1):
     draw.text(
         (90, 1815),
         "@khabar.short",
-        font=english_font_small,
+        font=english_small,
         fill="white"
     )
 
@@ -133,7 +187,7 @@ for index, item in enumerate(news[:10], start=1):
         for _ in range(FPS * DURATION):
             writer.append_data(frame)
 
-    # ADD MUSIC
+    # ADD BACKGROUND MUSIC
     subprocess.run(
         [
             ffmpeg,
@@ -152,9 +206,8 @@ for index, item in enumerate(news[:10], start=1):
         check=True
     )
 
-    # DELETE TEMP FILE
     os.remove(temp_file)
 
-    print("Reel created:", filename)
+    print("Music Photo Reel created:", filename)
 
-print("SUCCESS: 10 Nepali Music Reels created!")
+print("SUCCESS: 10 Photo Music Reels created!")
