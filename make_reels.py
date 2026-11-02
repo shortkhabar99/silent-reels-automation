@@ -6,14 +6,14 @@ import subprocess
 import glob
 import requests
 import imageio_ffmpeg
+import nepali_datetime
 
 from io import BytesIO
-from datetime import datetime
+from datetime import datetime, timezone, timedelta
 from PIL import Image, ImageDraw, ImageFont, ImageOps
 import imageio.v2 as imageio
 import numpy as np
 
-# VIDEO SETTINGS
 WIDTH = 1080
 HEIGHT = 1920
 FPS = 15
@@ -42,8 +42,27 @@ english_font = "/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf"
 
 headline_font = ImageFont.truetype(nepali_font, 58)
 category_font = ImageFont.truetype(nepali_font, 42)
+date_font = ImageFont.truetype(nepali_font, 38)
 english_big = ImageFont.truetype(english_font, 42)
 english_small = ImageFont.truetype(english_font, 32)
+
+# NEPAL DATE
+nepal_time = datetime.now(timezone.utc) + timedelta(hours=5, minutes=45)
+bs_date = nepali_datetime.date.from_datetime_date(nepal_time.date())
+
+nepali_digits = str.maketrans("0123456789", "०१२३४५६७८९")
+
+months = [
+    "बैशाख", "जेठ", "असार", "साउन",
+    "भदौ", "असोज", "कात्तिक", "मंसिर",
+    "पुष", "माघ", "फागुन", "चैत"
+]
+
+nepali_date = (
+    f"{bs_date.year} साल "
+    f"{months[bs_date.month - 1]} "
+    f"{bs_date.day} गते"
+).translate(nepali_digits)
 
 # CHECK MUSIC
 if not os.path.exists("news_music.mp3"):
@@ -53,7 +72,7 @@ ffmpeg = imageio_ffmpeg.get_ffmpeg_exe()
 timestamp = datetime.utcnow().strftime("%Y%m%d_%H%M%S")
 
 
-# DOWNLOAD NEWS PHOTO
+# DOWNLOAD PHOTO
 def download_photo(url):
     if not url:
         return None
@@ -66,23 +85,20 @@ def download_photo(url):
         )
         response.raise_for_status()
 
-        photo = Image.open(BytesIO(response.content))
-        photo = photo.convert("RGB")
+        photo = Image.open(BytesIO(response.content)).convert("RGB")
 
-        photo = ImageOps.fit(
+        return ImageOps.fit(
             photo,
             (950, 600),
             method=Image.Resampling.LANCZOS
         )
-
-        return photo
 
     except Exception as error:
         print("Photo unavailable:", error)
         return None
 
 
-# CREATE 10 REELS
+# CREATE REELS
 for index, item in enumerate(news[:10], start=1):
 
     image = Image.new("RGB", (WIDTH, HEIGHT), "#101827")
@@ -98,9 +114,17 @@ for index, item in enumerate(news[:10], start=1):
         fill="white"
     )
 
+    # NEPALI DATE
+    draw.text(
+        (65, 255),
+        nepali_date,
+        font=date_font,
+        fill="#ffcc33"
+    )
+
     # CATEGORY
     draw.text(
-        (65, 300),
+        (65, 350),
         item.get("category", "समाचार"),
         font=category_font,
         fill="#ffcc33"
@@ -110,7 +134,7 @@ for index, item in enumerate(news[:10], start=1):
     headline = item.get("title", "ताजा समाचार")
     lines = textwrap.wrap(headline, width=25)
 
-    y = 420
+    y = 470
 
     for line in lines[:4]:
         draw.text(
@@ -127,6 +151,7 @@ for index, item in enumerate(news[:10], start=1):
     if photo:
         image.paste(photo, (65, 900))
         print("Photo added:", item.get("title", ""))
+
     else:
         draw.rounded_rectangle(
             (65, 900, 1015, 1500),
@@ -141,13 +166,8 @@ for index, item in enumerate(news[:10], start=1):
             fill="white"
         )
 
-        print("No photo:", item.get("title", ""))
-
     # FOOTER
-    draw.rectangle(
-        (0, 1650, WIDTH, 1920),
-        fill="#c90020"
-    )
+    draw.rectangle((0, 1650, WIDTH, 1920), fill="#c90020")
 
     draw.text(
         (65, 1730),
@@ -170,7 +190,6 @@ for index, item in enumerate(news[:10], start=1):
         fill="white"
     )
 
-    # VIDEO FRAME
     frame = np.array(image)
 
     filename = f"reels/news_{timestamp}_{index:02d}.mp4"
@@ -187,7 +206,7 @@ for index, item in enumerate(news[:10], start=1):
         for _ in range(FPS * DURATION):
             writer.append_data(frame)
 
-    # ADD BACKGROUND MUSIC
+    # ADD MUSIC
     subprocess.run(
         [
             ffmpeg,
@@ -208,6 +227,6 @@ for index, item in enumerate(news[:10], start=1):
 
     os.remove(temp_file)
 
-    print("Music Photo Reel created:", filename)
+    print("Nepali Date Photo Music Reel:", filename)
 
-print("SUCCESS: 10 Photo Music Reels created!")
+print("SUCCESS: 10 Reels with Nepali Date created!")
