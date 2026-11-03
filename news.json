@@ -1,72 +1,177 @@
 [
   {
     "category": "नेपाल समाचार",
+    "title": "सातै प्रदेशका अर्थमन्त्रीको साझा माग : अनुदान कटौती रोक, अधिकार हस्तान्तरण गर",
+    "link": "https://www.onlinekhabar.com/2026/11/2049809/%e0%a4%b8%e0%a4%be%e0%a4%a4%e0%a5%88-%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a6%e0%a5%87%e0%a4%b6%e0%a4%95%e0%a4%be-%e0%a4%85%e0%a4%b0%e0%a5%8d%e0%a4%a5%e0%a4%ae%e0%a4%a8%e0%a5%8d%e0%a4%a4%e0%a5%8d%e0%a4%b0",
+    "image": "https://www.onlinekhabar.com/wp-content/uploads/2026/11/7-province-ministry-vela-1024x500.jpg",
+    "published": "Tue, 03 Nov 2026 02:01:04 +0000"
+  },
+  {
+    "category": "नेपाल समाचार",
+    "title": "सरकारविरुद्ध विपक्षी मोर्चा कस्दै कांग्रेस",
+    "link": "https://www.onlinekhabar.com/2026/11/2049738/congress-is-building-an-opposition-front-against-the-government",
+    "image": "https://www.onlinekhabar.com/wp-content/uploads/2026/11/Bipakshi-dal-1024x500.jpg",
+    "published": "Tue, 03 Nov 2026 01:53:31 +0000"
+  },
+  {
+    "category": "नेपाल समाचार",
+    "title": "कर्तव्य ज्यान मुद्दाका फरार प्रतिवादी १६ वर्षपछि पक्राउ",
+    "link": "https://www.onlinekhabar.com/2026/11/2049799/fugitive-defendant-in-manslaughter-case-arrested-after-16-years",
+    "image": "https://www.onlinekhabar.com/wp-content/uploads/2026/11/pakrau_nepal-police-1024x599.jpg",
+    "published": "Tue, 03 Nov 2026 01:47:40 +0000"
+  },
+  {
+    "category": "नेपाल समाचार",
+    "title": "पर्यटनमन्त्री पौडेल लण्डनमा, वर्ल्ड ट्राभल मार्केटमा नेपालबाट ३३ स्टल",
+    "link": "https://www.onlinekhabar.com/2026/11/2049786/tourism-minister-poudel-in-london-33-stalls-from-nepal-at-world-travel-market",
+    "image": "https://www.onlinekhabar.com/wp-content/uploads/2026/11/Khadak-Raj-Paudel-Ganesh-in-London-1024x640.jpg",
+    "published": "Tue, 03 Nov 2026 01:35:05 +0000"
+  },
+  {
+    "category": "नेपाल समाचार",
+    "title": "बेलायतको पीआर नियममा व्यापक परिवर्तन, हजारौं नेपाली समेत प्रभावित हुने",
+    "link": "https://www.onlinekhabar.com/2026/11/2049788/extensive-changes-to-uk-pr-rules-thousands-of-nepalis-will-be-affected",
+    "image": "https://www.onlinekhabar.com/wp-content/uploads/2026/11/Home-Secretary-Shabana-Mahmood-1024x500.jpg",
+    "published": "Tue, 03 Nov 2026 01:31:41 +0000"
+  },
+  {
+    "category": "नेपाल समाचार",
+    "title": "सुन्दरीजलमा दुईवटा मोटरसाइकल ठोक्किँदा एक जनाको मृत्यु",
+    "link": "https://www.onlinekhabar.com/2026/11/2049793/one-person-dies-after-two-motorcycles-collide-in-sundarijal",
+    "image": "https://www.onlinekhabar.com/wp-content/uploads/2021/08/Death-body-900px.jpg",
+    "published": "Tue, 03 Nov 2026 01:29:49 +0000"
+  },
+  {
+    "category": "नेपाल समाचार",
+    "title": "एनपीएलमा आज विराटनगर र जनकपुर तथा लुम्बिनी र पोखरा भिड्ने",
+    "link": "https://www.onlinekhabar.com/2026/11/2049778/biratnagar-and-janakpur-and-lumbini-and-pokhara-will-clash-in-npl-today",
+    "image": "https://www.onlinekhabar.com/wp-content/uploads/2026/10/Nepal-premier-leauge-kirtipur-1-1024x512.jpeg",
+    "published": "Tue, 03 Nov 2026 01:08:34 +0000"
+  },
+  {
+    "category": "नेपाल समाचार",
+    "title": "अमेरिकामा आज मध्यावधि निर्वाचन, ट्रम्पका लागि किन महत्वपूर्ण ?",
+    "link": "https://www.onlinekhabar.com/2026/11/2049779/why-are-the-midterm-elections-in-america-important-for-trump",
+    "image": "https://www.onlinekhabar.com/wp-content/uploads/2026/11/US-Midterm-Election-1024x512.jpg",
+    "published": "Tue, 03 Nov 2026 01:04:32 +0000"
+  },
+  {
+    "category": "नेपाल समाचार",
+    "title": "मौसम खुलेसँगै धान थन्क्याउन व्यस्त छन् किसान",
+    "link": "https://www.onlinekhabar.com/2026/11/2049775/farmers-are-busy-storing-rice-as-the-weather-improves",
+    "image": "https://www.onlinekhabar.com/wp-content/uploads/2026/11/dhan-kheti-1024x606.jpg",
+    "published": "Tue, 03 Nov 2026 00:39:15 +0000"
+  },
+  {
+    "category": "नेपाल समाचार",
+    "title": "८० वर्षे वृद्धको सुपारीखेती",
+    "link": "https://www.onlinekhabar.com/2026/11/2049770/an-80-year-old-mans-betel-nut-farming",
+    "image": "https://www.onlinekhabar.com/wp-content/uploads/2026/11/supari-kheti-1024x606.jpg",
+    "published": "Tue, 03 Nov 2026 00:35:25 +0000"
+  },
+  {
+    "category": "नेपाल समाचार",
+    "title": "क्यालिफोर्नियाका २० हजार मत गणना नगर्न ट्रम्प प्रशासनले गरेको माग सर्वोच्च अदालतबाट अस्वीकार",
+    "link": "https://www.onlinekhabar.com/2026/11/2049766/supreme-court-rejects-trump-administrations-request-to-not-count-20000-california-votes",
+    "image": "",
+    "published": "Tue, 03 Nov 2026 00:31:00 +0000"
+  },
+  {
+    "category": "नेपाल समाचार",
+    "title": "प्रमुख सिँचाइ नहर प्रणाली पूर्ण क्षमतामा सञ्चालन",
+    "link": "https://www.onlinekhabar.com/2026/11/2049768/major-irrigation-canal-system-operating-at-full-capacity",
+    "image": "",
+    "published": "Tue, 03 Nov 2026 00:28:14 +0000"
+  },
+  {
+    "category": "नेपाल समाचार",
+    "title": "आज यस्तो छ विदेशी मुद्राको विनिमयदर",
+    "link": "https://www.onlinekhabar.com/2026/11/2049759/todays-foreign-exchange-rate-is-50",
+    "image": "",
+    "published": "Mon, 02 Nov 2026 23:37:10 +0000"
+  },
+  {
+    "category": "नेपाल समाचार",
+    "title": "खेलकुदमन्त्री पोखरेल थाइल्यान्ड जाने, एन्फाको निलम्बन फुकुवाका लागि वार्ता हुने",
+    "link": "https://www.onlinekhabar.com/2026/11/2049753/sports-minister-pokharel-to-visit-thailand-for-talks-to-lift-anfa-suspension",
+    "image": "",
+    "published": "Mon, 02 Nov 2026 17:39:12 +0000"
+  },
+  {
+    "category": "नेपाल समाचार",
+    "title": "काठमान्डु गोर्खाजका ‘म्याच विनर’ रासिद र करण",
+    "link": "https://www.onlinekhabar.com/2026/11/2049749/kathmandu-gorkhas-match-winners-rashid-and-karan",
+    "image": "",
+    "published": "Mon, 02 Nov 2026 17:22:36 +0000"
+  },
+  {
+    "category": "नेपाल समाचार",
     "title": "चितवन राइनोज : तीन खेलमा दुई कप्तान, दुई फरक नतिजा",
     "link": "https://www.onlinekhabar.com/2026/11/2049746/chitwan-rhinos-two-captains-in-three-games-two-different-results",
-    "image": "https://www.onlinekhabar.com/wp-content/uploads/2026/11/Supa-vs-chitwan-6-1024x683.jpg",
+    "image": "",
     "published": "Mon, 02 Nov 2026 17:00:51 +0000"
   },
   {
     "category": "नेपाल समाचार",
     "title": "प्रक्रिया पूरा गर्दा पनि धितोपत्र बोर्डले किन रोकिरहेको छ आईपीओ ?",
     "link": "https://www.onlinekhabar.com/2026/11/2049105/why-is-the-securities-and-exchange-board-of-nepal-seb-stopping-the-ipo-even-after-completing-the-process",
-    "image": "https://www.onlinekhabar.com/wp-content/uploads/2026/11/iPO-Pipeline_-1-1024x500.png",
+    "image": "",
     "published": "Mon, 02 Nov 2026 15:49:47 +0000"
   },
   {
     "category": "नेपाल समाचार",
     "title": "चित्ताकर्षक शे-फोक्सुण्डो ताल (तस्वीरहरू)",
     "link": "https://www.onlinekhabar.com/2026/11/2048931/the-breathtaking-shey-phoksundo-lake-photos",
-    "image": "https://www.onlinekhabar.com/wp-content/uploads/2026/11/She-Foksundo-tal-16-1024x576.jpg",
+    "image": "",
     "published": "Mon, 02 Nov 2026 15:49:15 +0000"
   },
   {
     "category": "नेपाल समाचार",
     "title": "सत्ता र समीकरण फेरिंदा नफेरिएका परशुराम, ५ वर्षे कार्यकाल पूरा गर्ने पहिलो प्रदेश प्रमुख",
     "link": "https://www.onlinekhabar.com/2026/11/2049000/parashuram-who-remained-unchanged-despite-changes-in-power-and-equations-is-the-first-provincial-chief-to-complete-a-5-year-term",
-    "image": "https://www.onlinekhabar.com/wp-content/uploads/2026/11/parashuram-khapung-1230-1024x578.jpg",
+    "image": "",
     "published": "Mon, 02 Nov 2026 15:47:20 +0000"
   },
   {
     "category": "नेपाल समाचार",
     "title": "स्वार्थको द्वन्द्वले पहिलो पटक रोकिए राजदूत",
     "link": "https://www.onlinekhabar.com/2026/11/2049610/ambassador-stopped-for-the-first-time-due-to-conflict-of-interest",
-    "image": "https://www.onlinekhabar.com/wp-content/uploads/2026/11/Jigyan-kumar-1024x500.jpg",
+    "image": "",
     "published": "Mon, 02 Nov 2026 15:45:09 +0000"
   },
   {
     "category": "नेपाल समाचार",
     "title": "बालेन प्रधानमन्त्री नबन्दै डाइभर्सनमा दिएका थिए चासो, अहिले सहसचिव समातेर धाकधम्की",
     "link": "https://www.onlinekhabar.com/2026/11/2049577/the-reason-why-the-prime-ministers-office-canceled-the-sunkoshi-marine-contract-by-detaining-2-joint-secretaries-for-2-days",
-    "image": "https://www.onlinekhabar.com/wp-content/uploads/2026/11/PMO--1024x500.png",
+    "image": "",
     "published": "Mon, 02 Nov 2026 15:43:25 +0000"
   },
   {
     "category": "नेपाल समाचार",
     "title": "ग्यास उद्योग मर्जरमा सरकारसँग के छ उद्योगीको माग ?",
     "link": "https://www.onlinekhabar.com/2026/11/2049621/what-are-the-industrialists-demands-from-the-government-regarding-the-gas-industry-merger",
-    "image": "https://www.onlinekhabar.com/wp-content/uploads/2026/08/gass-ktm-16-e1793626533601-1024x500.jpg",
+    "image": "",
     "published": "Mon, 02 Nov 2026 15:43:24 +0000"
   },
   {
     "category": "नेपाल समाचार",
     "title": "रविको मुद्दामा आदेश गर्ने न्यायाधीशहरूलाई शृङ्खलाबद्ध ‘बढुवा’ उपहार",
     "link": "https://www.onlinekhabar.com/2026/11/2049497/series-of-boosts-given-to-judges-who-ruled-on-ravis-case",
-    "image": "https://www.onlinekhabar.com/wp-content/uploads/2026/11/Rabi-lamichhane-nyayadhis-1024x500.png",
+    "image": "",
     "published": "Mon, 02 Nov 2026 15:41:15 +0000"
   },
   {
     "category": "नेपाल समाचार",
     "title": "उदयपुरमा ७ हजार ८२६ किलो गाँजा बरामद",
     "link": "https://www.onlinekhabar.com/2026/11/2049742/7826-kg-of-marijuana-seized-in-udayapur",
-    "image": "https://www.onlinekhabar.com/wp-content/uploads/2026/11/APF-1024x500.jpg",
+    "image": "",
     "published": "Mon, 02 Nov 2026 15:40:33 +0000"
   },
   {
     "category": "नेपाल समाचार",
     "title": "कहाँ पुग्यो गल्छी-रसुवागढी सडक ट्र्याक खोल्ने काम ?",
     "link": "https://www.onlinekhabar.com/2026/11/2049690/where-has-the-work-of-opening-the-galchhi-rasuwagadhi-road-track-reached",
-    "image": "https://www.onlinekhabar.com/wp-content/uploads/2026/09/Betrawati-ghantaghar-3-1024x500.jpg",
+    "image": "",
     "published": "Mon, 02 Nov 2026 15:39:58 +0000"
   },
   {
@@ -105,122 +210,17 @@
     "published": "Mon, 02 Nov 2026 15:03:23 +0000"
   },
   {
-    "category": "नेपाल समाचार",
-    "title": "एसीसी यू-१९ एसिया कप खेल्न जाने नेपाली टोलीलाई बिदाइ",
-    "link": "https://www.onlinekhabar.com/2026/11/2049715/farewell-to-nepali-team-heading-to-acc-u-19-asia-cup",
-    "image": "",
-    "published": "Mon, 02 Nov 2026 14:57:45 +0000"
-  },
-  {
-    "category": "नेपाल समाचार",
-    "title": "मुद्दाको सुनुवाइ प्रक्रियाबाट अलग बसिन् सर्वोच्चकी न्यायाधीश सुवेदी",
-    "link": "https://www.onlinekhabar.com/2026/11/2049714/supreme-court-justice-subedi-recuses-herself-from-the-hearing-process",
-    "image": "",
-    "published": "Mon, 02 Nov 2026 14:56:07 +0000"
-  },
-  {
-    "category": "नेपाल समाचार",
-    "title": "सुदूरपश्चिमको दोस्रो जित",
-    "link": "https://www.onlinekhabar.com/2026/11/2049712/sudurpaschims-second-victory",
-    "image": "",
-    "published": "Mon, 02 Nov 2026 14:52:08 +0000"
-  },
-  {
-    "category": "नेपाल समाचार",
-    "title": "इनमसँग जोडिएका न्यायाधीशबारे तथ्य संकलन गर्न बारले बनायो समिति",
-    "link": "https://www.onlinekhabar.com/2026/11/2049710/bar-forms-committee-to-collect-facts-about-judges-linked-to-inam",
-    "image": "",
-    "published": "Mon, 02 Nov 2026 14:38:01 +0000"
-  },
-  {
-    "category": "नेपाल समाचार",
-    "title": "युरोपभर जेनजीको आक्रोश किन सल्किंदै छ ?",
-    "link": "https://www.onlinekhabar.com/2026/11/2048995/why-is-genjis-anger-burning-across-europe",
-    "image": "",
-    "published": "Mon, 02 Nov 2026 14:28:32 +0000"
-  },
-  {
-    "category": "नेपाल समाचार",
-    "title": "९ करोड ७२ लाख अकुत सम्पत्ति आर्जन गरेको आरोपमा मालपोतका तत्कालीन सुब्बाविरुद्ध मुद्दा",
-    "link": "https://www.onlinekhabar.com/2026/11/2049694/case-filed-against-then-land-revenue-officer-on-charges-of-amassing-97-2-million-rupees-of-undisclosed-wealth",
-    "image": "",
-    "published": "Mon, 02 Nov 2026 14:21:46 +0000"
-  },
-  {
-    "category": "नेपाल समाचार",
-    "title": "राष्ट्र बैंकलाई नवप्रवर्तनसँगै आएका जोखिम व्यवस्थापन गर्ने चुनौती छ : गभर्नर",
-    "link": "https://www.onlinekhabar.com/2026/11/2049665/the-challenge-for-the-nrb-is-to-manage-the-risks-that-come-with-innovation-governor",
-    "image": "",
-    "published": "Mon, 02 Nov 2026 13:55:38 +0000"
-  },
-  {
-    "category": "नेपाल समाचार",
-    "title": "मध्यपुर थिमिका प्रमुख प्रशासकीय अधिकृत घुससहित पक्राउ",
-    "link": "https://www.onlinekhabar.com/2026/11/2049663/madhyapur-thimis-chief-administrative-officer-arrested-with-bribe",
-    "image": "",
-    "published": "Mon, 02 Nov 2026 13:55:12 +0000"
-  },
-  {
-    "category": "नेपाल समाचार",
-    "title": "सालका रुख अवैध रुपमा कटान",
-    "link": "https://www.onlinekhabar.com/2026/11/2049646/illegal-felling-of-sal-trees",
-    "image": "",
-    "published": "Mon, 02 Nov 2026 13:46:53 +0000"
-  },
-  {
-    "category": "नेपाल समाचार",
-    "title": "‘गोदावरी फूल प्रदर्शनी’ दुई दिन लम्बियो, आइतबारसम्म ७५ लाखको कारोबार",
-    "link": "https://www.onlinekhabar.com/2026/11/2049647/godavari-flower-exhibition-extended-for-two-days-turnover-of-rs-7-5-million-till-sunday",
-    "image": "",
-    "published": "Mon, 02 Nov 2026 13:45:23 +0000"
-  },
-  {
-    "category": "नेपाल समाचार",
-    "title": "चितवनले सुदूरपश्चिमलाई दियो १३० रनको लक्ष्य",
-    "link": "https://www.onlinekhabar.com/2026/11/2049546/chitwan-sets-a-target-of-130-runs-for-sudurpaschim",
-    "image": "",
-    "published": "Mon, 02 Nov 2026 13:09:59 +0000"
-  },
-  {
-    "category": "नेपाल समाचार",
-    "title": "अर्धशतकबाट एक रनले चुके बोपारा",
-    "link": "https://www.onlinekhabar.com/2026/11/2049591/bopara-missed-out-on-a-half-century-by-one-run",
-    "image": "",
-    "published": "Mon, 02 Nov 2026 13:01:14 +0000"
-  },
-  {
-    "category": "नेपाल समाचार",
-    "title": "रौतहटमा स्रोत नखुलेको १० लाखसहित मोटरसाइकल नियन्त्रणमा",
-    "link": "https://www.onlinekhabar.com/2026/11/2049588/motorcycle-seized-with-rs-1-million-from-unknown-source-in-rautahat",
-    "image": "",
-    "published": "Mon, 02 Nov 2026 12:56:07 +0000"
-  },
-  {
-    "category": "नेपाल समाचार",
-    "title": "पापडी चाट : स्वाद, स्वास्थ्य र सन्तुष्टिको सन्तुलन",
-    "link": "https://www.onlinekhabar.com/2026/11/2049585/papadi-chaat-a-balance-of-taste-health-and-satisfaction",
-    "image": "",
-    "published": "Mon, 02 Nov 2026 12:53:10 +0000"
-  },
-  {
-    "category": "नेपाल समाचार",
-    "title": "चाबहिलमा बसको ठक्करबाट मोटरसाइकल चालकको मृत्यु",
-    "link": "https://www.onlinekhabar.com/2026/11/2049581/motorcyclist-dies-after-being-hit-by-bus-in-chabahil",
-    "image": "",
-    "published": "Mon, 02 Nov 2026 12:49:36 +0000"
-  },
-  {
     "category": "सेतोपाटी",
-    "title": "सुदूरपश्चिमका फ्यान देखेर रदरफोर्ड छक्क, भने– उनीहरूका लागि उपाधि जित्न चाहन्छौं",
-    "link": "https://www.setopati.com/sports/npl/401871",
+    "title": "डेमोक्र्याटिक पार्टीले अनुसन्धान अघि बढाए मस्कलाई जोगाउने ट्रम्पको घोषणा",
+    "link": "https://www.setopati.com/politics/401875",
     "image": "",
-    "published": "Mon, 02 Nov 2026 22:10:00 +0545"
+    "published": "Tue, 03 Nov 2026 07:39:09 +0545"
   },
   {
     "category": "रातोपाटी",
-    "title": "प्यालेस्टिनी माटोमा उनीहरूको अधिकार सुनिश्चित हुनुपर्छ : राजा अब्दुल्लाह",
-    "link": "https://www.ratopati.com/story/602959/their-rights-to-palestinian-land-must-be-ensured-king-abdullah",
-    "image": "https://rpcdn.ratopati.com/media/albums/Palestine1_SzHn1vlZO4.jpg",
-    "published": "Mon, 02 Nov 2026 17:12:10 +0000"
+    "title": "कालीमाटीमा आज कुन तरकारी र फलफूलको कति छ मूल्य ?",
+    "link": "https://www.ratopati.com/story/602998/what-is-the-price-of-which-vegetables-and-fruits-in-kalimati-today",
+    "image": "https://rpcdn.ratopati.com/media/albums/Vegtable_huUK3Czptk.jpg",
+    "published": "Tue, 03 Nov 2026 02:06:31 +0000"
   }
 ]
