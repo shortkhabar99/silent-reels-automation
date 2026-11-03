@@ -1,72 +1,177 @@
 [
   {
     "category": "नेपाल समाचार",
+    "title": "पोखराको कमजोर ब्याटिङ, लुम्बिनीलाई ९८ रनको लक्ष्य",
+    "link": "https://www.onlinekhabar.com/2026/11/2050492/pokharas-weak-batting-lumbini-set-a-target-of-98-runs",
+    "image": "https://www.onlinekhabar.com/wp-content/uploads/2026/11/Lumbini-vs-pokhara_5-7-1024x683.jpg",
+    "published": "Tue, 03 Nov 2026 13:01:08 +0000"
+  },
+  {
+    "category": "नेपाल समाचार",
+    "title": "अमेरिकी इतिहासकै सबैभन्दा महँगो मध्यावधि निर्वाचन",
+    "link": "https://www.onlinekhabar.com/2026/11/2050484/the-most-expensive-midterm-elections-in-american-history",
+    "image": "https://www.onlinekhabar.com/wp-content/uploads/2026/11/US-midterm-Election-1.jpg",
+    "published": "Tue, 03 Nov 2026 13:00:02 +0000"
+  },
+  {
+    "category": "नेपाल समाचार",
+    "title": "त्रिविमा बेतलबी बिदा जोडेर अझै खाइरहेछन् पेन्सन",
+    "link": "https://www.onlinekhabar.com/2026/11/2050472/tribhuvan-university-students-are-still-receiving-their-pensions-despite-taking-unpaid-leave",
+    "image": "https://www.onlinekhabar.com/wp-content/uploads/2026/11/Tribhuwan-university-1024x383.jpg",
+    "published": "Tue, 03 Nov 2026 12:58:04 +0000"
+  },
+  {
+    "category": "नेपाल समाचार",
+    "title": "सरकारी निर्णय कुर्दै भोटेकोशीका क्षतिग्रस्त जलविद्युत् आयोजना, पुनर्निर्माण ठप्प",
+    "link": "https://www.onlinekhabar.com/2026/11/2050455/reconstruction-of-damaged-hydropower-projects-in-bhotekoshi-halted-pending-government-decision",
+    "image": "https://www.onlinekhabar.com/wp-content/uploads/2026/08/DJI_20260827090934_0514_D.00_01_48_18.Still006-1024x683.jpg",
+    "published": "Tue, 03 Nov 2026 12:45:22 +0000"
+  },
+  {
+    "category": "नेपाल समाचार",
+    "title": "समावेशितालाई आत्मसात गरेमात्र राष्ट्रिय एकता बलियो हुन्छ : प्रदेश प्रमुख खापुङ",
+    "link": "https://www.onlinekhabar.com/2026/11/2050463/national-unity-will-be-strengthened-only-by-embracing-inclusiveness-provincial-chief-khapung",
+    "image": "https://www.onlinekhabar.com/wp-content/uploads/2026/11/Prashuram-khapung.jpg",
+    "published": "Tue, 03 Nov 2026 12:36:49 +0000"
+  },
+  {
+    "category": "नेपाल समाचार",
+    "title": "कांग्रेस सांसद केरुङ भन्छन्– अदालत भन्नेबित्तिकै आङ सिरिङ्ग हुने अवस्था छ",
+    "link": "https://www.onlinekhabar.com/2026/11/2050451/congress-mp-kerung-says-as-soon-as-the-court-says-it-there-is-a-situation-where-the-aang-siring-will-be-there",
+    "image": "https://www.onlinekhabar.com/wp-content/uploads/2026/06/Narendra-kumar-kerung-1024x683.jpg",
+    "published": "Tue, 03 Nov 2026 12:17:55 +0000"
+  },
+  {
+    "category": "नेपाल समाचार",
+    "title": "भूत वा कोही वरपर भएको आभास हुन्छ ? आखिर किन ?",
+    "link": "https://www.onlinekhabar.com/2026/11/2050398/do-you-feel-like-theres-a-ghost-or-someone-around-why",
+    "image": "https://www.onlinekhabar.com/wp-content/uploads/2026/11/shadow.png",
+    "published": "Tue, 03 Nov 2026 12:15:36 +0000"
+  },
+  {
+    "category": "नेपाल समाचार",
+    "title": "महाभियोगबारे रास्वपालाई कांग्रेसको सुझाव– पहिले आफैँ प्रष्ट हुनू",
+    "link": "https://www.onlinekhabar.com/2026/11/2050442/congresss-suggestion-to-rsp-regarding-impeachment-first-be-clear-about-yourself",
+    "image": "https://www.onlinekhabar.com/wp-content/uploads/2026/11/Bhismaraj-angdembe.jpg",
+    "published": "Tue, 03 Nov 2026 12:09:24 +0000"
+  },
+  {
+    "category": "नेपाल समाचार",
+    "title": "सोलुखुम्बु हेलिकप्टर दुर्घटनामा घाइते तीन जनाको मेडिसिटीमा उपचार हुँदै",
+    "link": "https://www.onlinekhabar.com/2026/11/2050419/three-people-injured-in-solukhumbu-helicopter-crash-are-receiving-treatment-at-medicity",
+    "image": "https://www.onlinekhabar.com/wp-content/uploads/2026/11/helicopter-judai_solukhkumbu-1024x599.jpg",
+    "published": "Tue, 03 Nov 2026 12:03:59 +0000"
+  },
+  {
+    "category": "नेपाल समाचार",
+    "title": "कांग्रेसले भन्यो : प्रधानमन्त्री कार्यालय यातनागृह जस्तो भयो",
+    "link": "https://www.onlinekhabar.com/2026/11/2050412/congress-said-the-prime-ministers-office-has-become-like-a-torture-chamber",
+    "image": "https://www.onlinekhabar.com/wp-content/uploads/2026/11/Bhismaraj-angdembe.jpg",
+    "published": "Tue, 03 Nov 2026 12:03:02 +0000"
+  },
+  {
+    "category": "नेपाल समाचार",
+    "title": "८ हजार मिटर माथिका थप ६ हिमालको मान्यता : एक वर्षभित्रै ‘ब्रेक थ्रु’ हुने नेपालको अपेक्षा",
+    "link": "https://www.onlinekhabar.com/2026/11/2050359/recognition-of-6-more-mountains-above-8000-meters-nepal-expects-breakthrough-within-a-year",
+    "image": "",
+    "published": "Tue, 03 Nov 2026 12:01:54 +0000"
+  },
+  {
+    "category": "नेपाल समाचार",
+    "title": "अनलाइनखबरकर्मी शर्मालाई डायलसन स्मृति पत्रकारिता पुरस्कार",
+    "link": "https://www.onlinekhabar.com/2026/11/2050411/online-journalist-sharma-wins-dialson-memorial-journalism-award",
+    "image": "",
+    "published": "Tue, 03 Nov 2026 11:56:43 +0000"
+  },
+  {
+    "category": "नेपाल समाचार",
+    "title": "फौजदारी कानुन आकर्षित हुने विषयमा मेलमिलापको व्यवस्था लागू हुँदैन : कानुनमन्त्री गौतम",
+    "link": "https://www.onlinekhabar.com/2026/11/2050405/conciliation-provision-does-not-apply-to-matters-involving-criminal-law-law-minister-gautam",
+    "image": "",
+    "published": "Tue, 03 Nov 2026 11:50:57 +0000"
+  },
+  {
+    "category": "नेपाल समाचार",
+    "title": "युवापुस्तालाई भुतुक्कै बनाइरहेका एकदेव",
+    "link": "https://www.onlinekhabar.com/2026/11/2050387/a-god-who-is-making-the-youth-crazy",
+    "image": "",
+    "published": "Tue, 03 Nov 2026 11:49:39 +0000"
+  },
+  {
+    "category": "नेपाल समाचार",
+    "title": "नेपाल रिलाई हकप्रद सेयर निष्कासन गर्न सरकारको स्वीकृति",
+    "link": "https://www.onlinekhabar.com/2026/11/2050401/government-approval-for-nepal-reliance-to-issue-rights-shares",
+    "image": "",
+    "published": "Tue, 03 Nov 2026 11:46:55 +0000"
+  },
+  {
+    "category": "नेपाल समाचार",
     "title": "हुलाकमार्फत विद्यार्थीको हातहातमै प्रमाणपत्र पुर्‍याउँदै त्रिभुवन विश्वविद्यालय",
     "link": "https://www.onlinekhabar.com/2026/11/2050397/tribhuvan-university-delivering-certificates-to-students-through-post",
-    "image": "https://www.onlinekhabar.com/wp-content/uploads/2026/11/hulak-1024x500.jpg",
+    "image": "",
     "published": "Tue, 03 Nov 2026 11:41:30 +0000"
   },
   {
     "category": "नेपाल समाचार",
     "title": "कांग्रेस आधिकारिकता विवादमा सार्वजनिक विषयबारे निष्पक्ष छानबिन गर्न देउवा समूहको माग",
     "link": "https://www.onlinekhabar.com/2026/11/2050389/deuba-group-demands-impartial-investigation-into-public-issues-in-congress-officialdom-dispute",
-    "image": "https://www.onlinekhabar.com/wp-content/uploads/2026/11/Prakashsaran-mahat.jpg",
+    "image": "",
     "published": "Tue, 03 Nov 2026 11:38:39 +0000"
   },
   {
     "category": "नेपाल समाचार",
     "title": "गान्तोकको पाल्जोर स्टेडियममा ऐतिहासिक नेपथ्य साँझ",
     "link": "https://www.onlinekhabar.com/2026/11/2050382/historic-nepathya-evening-at-paljor-stadium-in-gangtok",
-    "image": "https://www.onlinekhabar.com/wp-content/uploads/2026/11/Nepathya-gantok-sikkim-1024x538.jpg",
+    "image": "",
     "published": "Tue, 03 Nov 2026 11:38:37 +0000"
   },
   {
     "category": "नेपाल समाचार",
     "title": "नानो फर्टिलाइजर र प्राङ्गारिक मल ‘आवश्यक पदार्थ’ सूचीमा, मल नियन्त्रण आदेश २०८३ स्वीकृत",
     "link": "https://www.onlinekhabar.com/2026/11/2050388/nano-fertilizer-and-organic-fertilizer-on-the-essential-substances-list-fertilizer-control-order-2083-approved",
-    "image": "https://www.onlinekhabar.com/wp-content/uploads/2026/05/Krishi_ban-1024x568.png",
+    "image": "",
     "published": "Tue, 03 Nov 2026 11:36:44 +0000"
   },
   {
     "category": "नेपाल समाचार",
     "title": "तीन वर्षमा बन्नुपर्ने संसद् भवन सात वर्षसम्म बनेन, संसदीय समितिको चासो",
     "link": "https://www.onlinekhabar.com/2026/11/2050378/parliament-building-that-was-supposed-to-be-built-in-three-years-was-not-built-for-seven-years-concerns-parliamentary-committee",
-    "image": "https://www.onlinekhabar.com/wp-content/uploads/2026/11/New-Parliament-bhawan-1024x640.jpg",
+    "image": "",
     "published": "Tue, 03 Nov 2026 11:34:04 +0000"
   },
   {
     "category": "नेपाल समाचार",
     "title": "कञ्चनपुरका किसानलाई फूल टिप्न र बेच्न भ्याइनभ्याइ",
     "link": "https://www.onlinekhabar.com/2026/11/2050342/farmers-in-kanchanpur-struggle-to-pick-and-sell-flowers",
-    "image": "https://www.onlinekhabar.com/wp-content/uploads/2026/11/tihal-ful-2-1024x500.jpg",
+    "image": "",
     "published": "Tue, 03 Nov 2026 11:32:07 +0000"
   },
   {
     "category": "नेपाल समाचार",
     "title": "ओलीलाई प्रचण्डको सन्देश– देश संकटमा छ, भावना फराकिलो बनाएर एक बनौं",
     "link": "https://www.onlinekhabar.com/2026/11/2050370/prachandas-message-to-oli-the-country-is-in-crisis-lets-broaden-our-feelings-and-become-one",
-    "image": "https://www.onlinekhabar.com/wp-content/uploads/2026/11/Prachanda.jpg",
+    "image": "",
     "published": "Tue, 03 Nov 2026 11:29:09 +0000"
   },
   {
     "category": "नेपाल समाचार",
     "title": "राष्ट्रिय राजमार्गका विभिन्न आयोजनामा देखिएका समस्या समाधान गर्न निर्देशन",
     "link": "https://www.onlinekhabar.com/2026/11/2050369/instructions-to-resolve-problems-seen-in-various-national-highway-projects",
-    "image": "https://www.onlinekhabar.com/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-03-at-2.46.07-PM-1-1024x768.jpeg",
+    "image": "",
     "published": "Tue, 03 Nov 2026 11:27:42 +0000"
   },
   {
     "category": "नेपाल समाचार",
     "title": "यस्ता छन् मन्त्रिपरिषद् बैठकका मुख्य निर्णयहरू",
     "link": "https://www.onlinekhabar.com/2026/11/2050365/these-are-the-main-decisions-of-the-council-of-ministers-meeting-7",
-    "image": "https://www.onlinekhabar.com/wp-content/uploads/2026/11/cabinet-meeting-1024x500.jpg",
+    "image": "",
     "published": "Tue, 03 Nov 2026 11:23:23 +0000"
   },
   {
     "category": "नेपाल समाचार",
     "title": "कर्णाली मन्त्रिपरिषद्का पाँच निर्णय : निवृत्तिभरण कोषदेखि खानेपानी विधेयकसम्म",
     "link": "https://www.onlinekhabar.com/2026/11/2050362/five-decisions-of-the-karnali-council-of-ministers-from-pension-fund-to-drinking-water-bill",
-    "image": "https://www.onlinekhabar.com/wp-content/uploads/2026/11/karnali-cabinet-1024x500.jpg",
+    "image": "",
     "published": "Tue, 03 Nov 2026 11:21:47 +0000"
   },
   {
@@ -105,122 +210,17 @@
     "published": "Tue, 03 Nov 2026 11:01:28 +0000"
   },
   {
-    "category": "नेपाल समाचार",
-    "title": "यस वर्ष भाइटीकाको शुभसाइत कात्तिक २५ गते बिहान ११:०७ मा",
-    "link": "https://www.onlinekhabar.com/2026/11/2050335/this-year-the-auspicious-time-for-bhai-tika-is-on-kartik-25-at-1107-am",
-    "image": "",
-    "published": "Tue, 03 Nov 2026 10:59:44 +0000"
-  },
-  {
-    "category": "नेपाल समाचार",
-    "title": "नगरकोटको पर्यटन क्षेत्रलाई लक्षित गर्दै वर्ल्डलिंकको नयाँ सम्पर्क कार्यालय सञ्चालन",
-    "link": "https://www.onlinekhabar.com/2026/11/2050333/worldlink-opens-new-liaison-office-targeting-nagarkots-tourism-sector",
-    "image": "",
-    "published": "Tue, 03 Nov 2026 10:58:13 +0000"
-  },
-  {
-    "category": "नेपाल समाचार",
-    "title": "जग्गा सट्टापट्टामा किन पूर्वप्रधानमन्त्री नेपालमाथि चल्यो भ्रष्टाचार मुद्दा ?",
-    "link": "https://www.onlinekhabar.com/2026/11/2050294/why-was-a-corruption-case-filed-against-former-prime-minister-nepal-in-a-land-swap",
-    "image": "",
-    "published": "Tue, 03 Nov 2026 10:55:40 +0000"
-  },
-  {
-    "category": "नेपाल समाचार",
-    "title": "ग्राभेल हाल्नुपर्ने सडकमा माटो प्रयोग, स्थानीयको विरोधपछि रोकियो निर्माण",
-    "link": "https://www.onlinekhabar.com/2026/11/2050325/construction-halted-after-locals-protest-over-use-of-soil-on-gravel-road",
-    "image": "",
-    "published": "Tue, 03 Nov 2026 10:51:50 +0000"
-  },
-  {
-    "category": "नेपाल समाचार",
-    "title": "असन्तुष्टहरूलाई एकता प्रक्रियामा सामेल हुन माधव नेपालको आह्वान",
-    "link": "https://www.onlinekhabar.com/2026/11/2050326/madhav-nepal-calls-on-dissidents-to-join-the-unity-process",
-    "image": "",
-    "published": "Tue, 03 Nov 2026 10:47:30 +0000"
-  },
-  {
-    "category": "नेपाल समाचार",
-    "title": "समाजलाई अति दलीयकरणबाट मुक्त गरौं : सचेतक परियार",
-    "link": "https://www.onlinekhabar.com/2026/11/2050296/lets-free-society-from-excessive-partisanship-whip-pariyar",
-    "image": "",
-    "published": "Tue, 03 Nov 2026 10:36:59 +0000"
-  },
-  {
-    "category": "नेपाल समाचार",
-    "title": "रसेलको अलराउण्ड प्रदर्शनमा विराटनगरले जनकपुरलाई २ रनले हरायो",
-    "link": "https://www.onlinekhabar.com/2026/11/2050319/russells-all-round-performance-helps-biratnagar-defeat-janakpur-by-2-runs",
-    "image": "",
-    "published": "Tue, 03 Nov 2026 10:31:16 +0000"
-  },
-  {
-    "category": "नेपाल समाचार",
-    "title": "दीपकराज गिरी : सुटिङ हुने बेला हिरोइनले हाच्छ्युँ गरेर फिल्म फ्लप भयो कि ?",
-    "link": "https://www.onlinekhabar.com/2026/11/2050315/deepakraj-giri-did-the-film-flop-because-the-heroine-sneezed-during-shooting",
-    "image": "",
-    "published": "Tue, 03 Nov 2026 10:30:16 +0000"
-  },
-  {
-    "category": "नेपाल समाचार",
-    "title": "प्रश्नपत्र नै अपुग भएपछि दृष्टि विशेषज्ञको प्रवेश परीक्षा रोकियो",
-    "link": "https://www.onlinekhabar.com/2026/11/2050308/ophthalmologist-entrance-exam-halted-after-question-paper-was-found-to-be-inadequate",
-    "image": "",
-    "published": "Tue, 03 Nov 2026 10:29:45 +0000"
-  },
-  {
-    "category": "नेपाल समाचार",
-    "title": "यूएईमा अर्को साता अमेरिका, रुस र युक्रेनबिच शान्ति वार्ता हुने",
-    "link": "https://www.onlinekhabar.com/2026/11/2050293/peace-talks-between-the-us-russia-and-ukraine-to-be-held-in-the-uae-next-week",
-    "image": "",
-    "published": "Tue, 03 Nov 2026 10:28:50 +0000"
-  },
-  {
-    "category": "नेपाल समाचार",
-    "title": "सिंहदरबारमा मन्त्रिपरिषद् बैठक",
-    "link": "https://www.onlinekhabar.com/2026/11/2050289/cabinet-meeting-at-singha-durbar-24",
-    "image": "",
-    "published": "Tue, 03 Nov 2026 09:58:57 +0000"
-  },
-  {
-    "category": "नेपाल समाचार",
-    "title": "ट्रम्प र रिपब्लिकनहरूका लागि ठूलो धक्काको सङ्केत",
-    "link": "https://www.onlinekhabar.com/2026/11/2050279/a-sign-of-a-major-setback-for-trump-and-the-republicans",
-    "image": "",
-    "published": "Tue, 03 Nov 2026 09:54:59 +0000"
-  },
-  {
-    "category": "नेपाल समाचार",
-    "title": "डोल्पा कारागारबाट फरार दुई कैदी रुकुम पश्चिमबाट पक्राउ",
-    "link": "https://www.onlinekhabar.com/2026/11/2050273/two-prisoners-who-escaped-from-dolpa-prison-arrested-from-rukum-west",
-    "image": "",
-    "published": "Tue, 03 Nov 2026 09:53:27 +0000"
-  },
-  {
-    "category": "नेपाल समाचार",
-    "title": "न्यायालयप्रति आएका विषयबारे गहिरो छानबिन आवश्यक : अर्याल",
-    "link": "https://www.onlinekhabar.com/2026/11/2050270/a-thorough-investigation-is-necessary-into-the-issues-brought-to-the-court-aryal",
-    "image": "",
-    "published": "Tue, 03 Nov 2026 09:51:02 +0000"
-  },
-  {
-    "category": "नेपाल समाचार",
-    "title": "निजी र सार्वजनिक लगानी सन्तुलित रूपमा अगाडि बढाउनुपर्छ : उपाध्यक्ष भट्ट",
-    "link": "https://www.onlinekhabar.com/2026/11/2050260/private-and-public-investment-should-be-carried-forward-in-a-balanced-manner-vice-president-bhatta",
-    "image": "",
-    "published": "Tue, 03 Nov 2026 09:43:44 +0000"
-  },
-  {
     "category": "सेतोपाटी",
-    "title": "बिग मुभिजमा अब अत्याधुनिक प्रविधिसहितको नयाँ अनुभव लिन पाइने",
-    "link": "https://www.setopati.com/art/art-activity/401941",
+    "title": "ट्रम्पलम्यानको घातक बलिङमा पोखरा ९७ रनमै समेटियो",
+    "link": "https://www.setopati.com/sports/npl/401950",
     "image": "",
-    "published": "Tue, 03 Nov 2026 17:18:00 +0545"
+    "published": "Tue, 03 Nov 2026 18:43:00 +0545"
   },
   {
     "category": "रातोपाटी",
-    "title": "लुम्बिनी प्रदेश मन्त्रिपरिषद् बैठकले के–के गर्‍याे निर्णय ?",
-    "link": "https://www.ratopati.com/story/603126/what-decisions-were-made-by-the-lumbini-provincial-council-of-ministers-meeting",
-    "image": "https://npcdn.ratopati.com/media/news/lumbini-cabinet_Llzc5OXzTr.webp",
-    "published": "Tue, 03 Nov 2026 11:47:10 +0000"
+    "title": "पाेखराले लुम्बिनीलाई दियाे ९८ रनकाे लक्ष्य",
+    "link": "https://www.ratopati.com/story/603138/pokhara-sets-lumbini-a-target-of-98-runs",
+    "image": "https://npcdn.ratopati.com/media/news/npl-lumbini-pokhara_C8E6nTAWUO.webp",
+    "published": "Tue, 03 Nov 2026 12:56:43 +0000"
   }
 ]
