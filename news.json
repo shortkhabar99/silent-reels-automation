@@ -1,72 +1,191 @@
 [
   {
     "category": "नेपाल समाचार",
+    "title": "दुई सातापछि मन्त्रिपरिषद् बैठक बस्दै",
+    "link": "https://www.onlinekhabar.com/2026/11/2049931/cabinet-meeting-to-be-held-in-two-weeks",
+    "image": "https://www.onlinekhabar.com/wp-content/uploads/2026/10/Cabinet-1-1024x500.jpg",
+    "published": "Tue, 03 Nov 2026 05:49:29 +0000"
+  },
+  {
+    "category": "नेपाल समाचार",
+    "title": "सोलुखुम्बु दुर्घटना अपडेट : दुवै हेलिकप्टरका पाइलट पनि घाइते",
+    "link": "https://www.onlinekhabar.com/2026/11/2049938/solukhumbu-accident-update-pilots-of-both-helicopters-injured",
+    "image": "https://www.onlinekhabar.com/wp-content/uploads/2026/11/helicopter-judai_solukhkumbu-1024x599.jpg",
+    "published": "Tue, 03 Nov 2026 05:46:35 +0000"
+  },
+  {
+    "category": "नेपाल समाचार",
+    "title": "‘रामायण’ मा सीता बनेकी पल्लवी : मेकअप नरुचाउने, डन्डिफोरको धेरै चर्चा",
+    "link": "https://www.onlinekhabar.com/2026/11/2049934/pallavi-who-played-sita-in-ramayana-she-doesnt-like-makeup-there-is-a-lot-of-talk-about-dandruff",
+    "image": "https://www.onlinekhabar.com/wp-content/uploads/2026/11/sai-pallnvi-sa-sita-1024x555.jpg",
+    "published": "Tue, 03 Nov 2026 05:39:24 +0000"
+  },
+  {
+    "category": "नेपाल समाचार",
+    "title": "आज र भोलि बालबालिकालाई भिटामिन र जुकाको औषधि खुवाइँदै",
+    "link": "https://www.onlinekhabar.com/2026/11/2049930/children-are-being-given-vitamins-and-deworming-medicine-today-and-tomorrow",
+    "image": "https://www.onlinekhabar.com/wp-content/uploads/2020/07/Vitamin-A-7-1024x700.jpg",
+    "published": "Tue, 03 Nov 2026 05:32:33 +0000"
+  },
+  {
+    "category": "नेपाल समाचार",
+    "title": "युक्रेनमा रुसी हवाई आक्रमण : २६ जनाको मृत्यु, २७ जना बेपत्ता",
+    "link": "https://www.onlinekhabar.com/2026/11/2049906/russian-airstrikes-in-ukraine-26-dead-27-missing",
+    "image": "https://www.onlinekhabar.com/wp-content/uploads/2026/11/uuuu.jpg",
+    "published": "Tue, 03 Nov 2026 05:30:43 +0000"
+  },
+  {
+    "category": "नेपाल समाचार",
+    "title": "हानि तथा नोक्सानी कोष : नजिर बस्यो, न्याय बाँकी छ",
+    "link": "https://www.onlinekhabar.com/2026/11/2049870/loss-and-damage-fund-a-precedent-has-been-set-justice-awaits",
+    "image": "https://www.onlinekhabar.com/wp-content/uploads/2026/11/900.jpg",
+    "published": "Tue, 03 Nov 2026 05:20:12 +0000"
+  },
+  {
+    "category": "नेपाल समाचार",
+    "title": "तिहारमा प्लास्टिकका फूलमाला बेचे जफत हुने",
+    "link": "https://www.onlinekhabar.com/2026/11/2049918/plastic-flower-garlands-sold-during-tihar-will-be-confiscated",
+    "image": "https://www.onlinekhabar.com/wp-content/uploads/2023/11/Plastik-fulmala-4-1024x683.jpg",
+    "published": "Tue, 03 Nov 2026 05:13:47 +0000"
+  },
+  {
+    "category": "नेपाल समाचार",
+    "title": "स्याङ्जा नागरिकता किर्ते प्रकरण : ताकेतापछि मात्रै ३ कर्मचारी पक्राउ",
+    "link": "https://www.onlinekhabar.com/2026/11/2049910/syangja-citizenship-forgery-case-3-employees-arrested-after-investigation",
+    "image": "https://www.onlinekhabar.com/wp-content/uploads/2026/11/DAO-Syangja-Karmachari-Pakrau-1024x533.jpg",
+    "published": "Tue, 03 Nov 2026 05:10:08 +0000"
+  },
+  {
+    "category": "नेपाल समाचार",
+    "title": "सुनको मूल्य बढ्यो, चाँदी घट्यो",
+    "link": "https://www.onlinekhabar.com/2026/11/2049912/gold-prices-rose-silver-fell-12",
+    "image": "https://www.onlinekhabar.com/wp-content/uploads/2025/06/gold-image-generatad-by-ai.jpg",
+    "published": "Tue, 03 Nov 2026 05:03:45 +0000"
+  },
+  {
+    "category": "नेपाल समाचार",
+    "title": "सोलुखुम्बुमा हेलिकप्टर दुर्घटना : मृतक र घाइतेको पहिचान खुल्यो",
+    "link": "https://www.onlinekhabar.com/2026/11/2049907/helicopter-crash-in-solukhumbu-identities-of-deceased-and-injured-revealed",
+    "image": "https://www.onlinekhabar.com/wp-content/uploads/2026/11/helicopter-judai_solukhkumbu-1024x599.jpg",
+    "published": "Tue, 03 Nov 2026 04:54:20 +0000"
+  },
+  {
+    "category": "नेपाल समाचार",
+    "title": "डोल्पाबाट सुत्केरीको हवाई उद्धार",
+    "link": "https://www.onlinekhabar.com/2026/11/2049873/air-rescue-of-pregnant-woman-from-dolpa",
+    "image": "",
+    "published": "Tue, 03 Nov 2026 04:46:30 +0000"
+  },
+  {
+    "category": "नेपाल समाचार",
+    "title": "सोलुखुम्बु हेलिकप्टर दुर्घटना : घाइतेलाई मेडिसिटी अस्पताल ल्याइयो",
+    "link": "https://www.onlinekhabar.com/2026/11/2049900/solukhumbu-helicopter-crash-injured-brought-to-medicity-hospital",
+    "image": "",
+    "published": "Tue, 03 Nov 2026 04:46:02 +0000"
+  },
+  {
+    "category": "नेपाल समाचार",
+    "title": "गण्डकीमा राजस्व उठाउन खुल्यो छुट्टै कार्यालय, ठूला कम्पनी र स्रोततर्फ नजर",
+    "link": "https://www.onlinekhabar.com/2026/11/2049898/separate-office-opened-in-gandaki-to-collect-revenue-eyes-on-big-companies-and-sources",
+    "image": "",
+    "published": "Tue, 03 Nov 2026 04:45:15 +0000"
+  },
+  {
+    "category": "नेपाल समाचार",
+    "title": "कर्णाली करिडोर : वर्षैपिच्छे म्याद थपिने, निर्माण गति नबढ्ने",
+    "link": "https://www.onlinekhabar.com/2026/11/2049802/karnali-corridor-deadline-will-be-extended-year-after-year-construction-speed-will-not-increase",
+    "image": "",
+    "published": "Tue, 03 Nov 2026 04:21:46 +0000"
+  },
+  {
+    "category": "नेपाल समाचार",
+    "title": "छिमेकीप्रति अविश्वास बढ्ने स्थिति सिर्जना भयो भने नेपालले दबाव थेग्न सक्दैन : प्रदीप ज्ञवाली",
+    "link": "https://www.onlinekhabar.com/2026/11/2049889/nepal-will-not-be-able-to-withstand-pressure-if-a-situation-of-increasing-distrust-towards-its-neighbors-is-created-pradeep-gyawali",
+    "image": "",
+    "published": "Tue, 03 Nov 2026 04:20:53 +0000"
+  },
+  {
+    "category": "नेपाल समाचार",
+    "title": "चीन र भारतसँगको सम्बन्धमा हेलचेर्क्याइँ, गैरजिम्मेवारी र हीनताबोध नगरौं : नारायणकाजी",
+    "link": "https://www.onlinekhabar.com/2026/11/2049884/lets-not-be-careless-irresponsible-and-inferior-in-our-relations-with-china-and-india-narayan-kaji",
+    "image": "",
+    "published": "Tue, 03 Nov 2026 04:14:17 +0000"
+  },
+  {
+    "category": "नेपाल समाचार",
+    "title": "मेची कोरिडोरमा पर्ने सुखानी पुलको ठेक्का तोडियो",
+    "link": "https://www.onlinekhabar.com/2026/11/2049857/the-contract-for-the-sukhani-bridge-in-the-mechi-corridor-has-been-terminated",
+    "image": "",
+    "published": "Tue, 03 Nov 2026 03:59:35 +0000"
+  },
+  {
+    "category": "नेपाल समाचार",
     "title": "नेपाललाई चाहिएको जोडिएको राष्ट्रिय स्वास्थ्य प्रणाली",
     "link": "https://www.onlinekhabar.com/2026/11/2049812/nepal-needs-a-connected-national-health-system",
-    "image": "https://www.onlinekhabar.com/wp-content/uploads/2026/11/Khanal900.jpg",
+    "image": "",
     "published": "Tue, 03 Nov 2026 03:40:38 +0000"
   },
   {
     "category": "नेपाल समाचार",
     "title": "भवन तयार हुँदा पनि सञ्चालनमा आएन आठपहरिया संग्रहालय",
     "link": "https://www.onlinekhabar.com/2026/11/2049848/aathpahariya-museum-not-operational-even-after-building-is-ready",
-    "image": "https://www.onlinekhabar.com/wp-content/uploads/2026/11/Aathpahariya-Museum-3-1024x683.jpg",
+    "image": "",
     "published": "Tue, 03 Nov 2026 03:37:29 +0000"
   },
   {
     "category": "नेपाल समाचार",
     "title": "शारदा नगरपालिकाले सुरु गर्‍यो रोजगार बैंक",
     "link": "https://www.onlinekhabar.com/2026/11/2049860/sharda-municipality-launches-employment-bank",
-    "image": "https://www.onlinekhabar.com/wp-content/uploads/2026/11/sharda-napa.jpg",
+    "image": "",
     "published": "Tue, 03 Nov 2026 03:35:31 +0000"
   },
   {
     "category": "नेपाल समाचार",
     "title": "छठअघि सिर्सिया नदी सफाइ अभियान तीव्र, प्रदूषण गर्ने उद्योगमाथि कडाइ",
     "link": "https://www.onlinekhabar.com/2026/11/2049859/sirsia-river-cleaning-campaign-intensifies-ahead-of-chhath-strict-action-against-polluting-industries",
-    "image": "https://www.onlinekhabar.com/wp-content/uploads/2026/11/Sirsiya-nadi-Birgaunj-1024x705.jpg",
+    "image": "",
     "published": "Tue, 03 Nov 2026 03:32:51 +0000"
   },
   {
     "category": "नेपाल समाचार",
     "title": "सोलुखुम्बुमा दुई हेलिकोप्टर ठोक्किए, एकजनाको मृत्यु",
     "link": "https://www.onlinekhabar.com/2026/11/2049849/two-helicopters-collide-in-solukhumbu-one-dead",
-    "image": "https://www.onlinekhabar.com/wp-content/uploads/2026/11/Helicopter-1024x599.jpg",
+    "image": "",
     "published": "Tue, 03 Nov 2026 03:07:23 +0000"
   },
   {
     "category": "नेपाल समाचार",
     "title": "उमा भुजेल नेतृत्वको नेपाल कम्युनिस्ट पार्टी नेकपामा समाहित हुने, आज पेरिसडाँडामा एकता घोषणा",
     "link": "https://www.onlinekhabar.com/2026/11/2049840/uma-bhujel-led-nepal-communist-party-to-merge-with-ncp-unity-announced-at-parisdanda-today",
-    "image": "https://www.onlinekhabar.com/wp-content/uploads/2026/06/Uma-bhujel-1024x500.jpg",
+    "image": "",
     "published": "Tue, 03 Nov 2026 02:56:49 +0000"
   },
   {
     "category": "नेपाल समाचार",
     "title": "पोखरा–मुग्लिन सडक स्तरोन्नति अन्तिम चरणमा",
     "link": "https://www.onlinekhabar.com/2026/11/2049830/pokhara-muglin-road-upgrade-in-final-stages",
-    "image": "https://www.onlinekhabar.com/wp-content/uploads/2026/11/pokhara-mugling-sadak-1024x599.jpg",
+    "image": "",
     "published": "Tue, 03 Nov 2026 02:49:55 +0000"
   },
   {
     "category": "नेपाल समाचार",
     "title": "राज्य सञ्चालन कि बिचौलियाको स्वार्थ संरक्षण ?",
     "link": "https://www.onlinekhabar.com/2026/11/2048846/state-governance-or-protecting-the-interests-of-middlemen",
-    "image": "https://www.onlinekhabar.com/wp-content/uploads/2026/11/Badri-Aryal-on-Politics-2.jpg",
+    "image": "",
     "published": "Tue, 03 Nov 2026 02:45:40 +0000"
   },
   {
     "category": "नेपाल समाचार",
     "title": "चुम्लिङटारको सिद्धार्थ रिभरसाइडमा रेस्टुरेन्ट सेवासँगै आवास र मनोरञ्जनका सुविधा विस्तार",
     "link": "https://www.onlinekhabar.com/2026/11/2049796/expansion-of-accommodation-and-entertainment-facilities-along-with-restaurant-services-at-siddhartha-riverside-in-chumlingtar",
-    "image": "https://www.onlinekhabar.com/wp-content/uploads/2026/11/Siddharth-Resort-Chumlingtar-Chitwan-1024x497.jpeg",
+    "image": "",
     "published": "Tue, 03 Nov 2026 02:34:06 +0000"
   },
   {
     "category": "नेपाल समाचार",
     "title": "एल निनोका कारण बोलिभियामा आपत्काल घोषणा",
     "link": "https://www.onlinekhabar.com/2026/11/2049823/bolivia-declares-state-of-emergency-due-to-el-nino",
-    "image": "https://www.onlinekhabar.com/wp-content/uploads/2026/11/Bolivia-Desert-1024x599.jpg",
+    "image": "",
     "published": "Tue, 03 Nov 2026 02:30:31 +0000"
   },
   {
@@ -91,136 +210,17 @@
     "published": "Tue, 03 Nov 2026 01:53:31 +0000"
   },
   {
-    "category": "नेपाल समाचार",
-    "title": "कर्तव्य ज्यान मुद्दाका फरार प्रतिवादी १६ वर्षपछि पक्राउ",
-    "link": "https://www.onlinekhabar.com/2026/11/2049799/fugitive-defendant-in-manslaughter-case-arrested-after-16-years",
-    "image": "",
-    "published": "Tue, 03 Nov 2026 01:47:40 +0000"
-  },
-  {
-    "category": "नेपाल समाचार",
-    "title": "पर्यटनमन्त्री पौडेल लन्डनमा, वर्ल्ड ट्राभल मार्केटमा नेपालबाट ३३ स्टल",
-    "link": "https://www.onlinekhabar.com/2026/11/2049786/tourism-minister-poudel-in-london-33-stalls-from-nepal-at-world-travel-market",
-    "image": "",
-    "published": "Tue, 03 Nov 2026 01:35:05 +0000"
-  },
-  {
-    "category": "नेपाल समाचार",
-    "title": "बेलायतको पीआर नियममा व्यापक परिवर्तन, हजारौं नेपाली समेत प्रभावित हुने",
-    "link": "https://www.onlinekhabar.com/2026/11/2049788/extensive-changes-to-uk-pr-rules-thousands-of-nepalis-will-be-affected",
-    "image": "",
-    "published": "Tue, 03 Nov 2026 01:31:41 +0000"
-  },
-  {
-    "category": "नेपाल समाचार",
-    "title": "सुन्दरीजलमा दुइटा मोटरसाइकल ठोक्किँदा एक जनाको मृत्यु",
-    "link": "https://www.onlinekhabar.com/2026/11/2049793/one-person-dies-after-two-motorcycles-collide-in-sundarijal",
-    "image": "",
-    "published": "Tue, 03 Nov 2026 01:29:49 +0000"
-  },
-  {
-    "category": "नेपाल समाचार",
-    "title": "एनपीएलमा आज विराटनगर र जनकपुर तथा लुम्बिनी र पोखरा भिड्ने",
-    "link": "https://www.onlinekhabar.com/2026/11/2049778/biratnagar-and-janakpur-and-lumbini-and-pokhara-will-clash-in-npl-today",
-    "image": "",
-    "published": "Tue, 03 Nov 2026 01:08:34 +0000"
-  },
-  {
-    "category": "नेपाल समाचार",
-    "title": "अमेरिकामा आज मध्यावधि निर्वाचन, ट्रम्पका लागि किन महत्त्वपूर्ण ?",
-    "link": "https://www.onlinekhabar.com/2026/11/2049779/why-are-the-midterm-elections-in-america-important-for-trump",
-    "image": "",
-    "published": "Tue, 03 Nov 2026 01:04:32 +0000"
-  },
-  {
-    "category": "नेपाल समाचार",
-    "title": "मौसम खुलेसँगै धान थन्क्याउन व्यस्त छन् किसान",
-    "link": "https://www.onlinekhabar.com/2026/11/2049775/farmers-are-busy-storing-rice-as-the-weather-improves",
-    "image": "",
-    "published": "Tue, 03 Nov 2026 00:39:15 +0000"
-  },
-  {
-    "category": "नेपाल समाचार",
-    "title": "८० वर्षे वृद्धको सुपारीखेती",
-    "link": "https://www.onlinekhabar.com/2026/11/2049770/an-80-year-old-mans-betel-nut-farming",
-    "image": "",
-    "published": "Tue, 03 Nov 2026 00:35:25 +0000"
-  },
-  {
-    "category": "नेपाल समाचार",
-    "title": "क्यालिफोर्नियाका २० हजार मत गणना नगर्न ट्रम्प प्रशासनले गरेको माग सर्वोच्च अदालतबाट अस्वीकार",
-    "link": "https://www.onlinekhabar.com/2026/11/2049766/supreme-court-rejects-trump-administrations-request-to-not-count-20000-california-votes",
-    "image": "",
-    "published": "Tue, 03 Nov 2026 00:31:00 +0000"
-  },
-  {
-    "category": "नेपाल समाचार",
-    "title": "प्रमुख सिँचाइ नहर प्रणाली पूर्ण क्षमतामा सञ्चालन",
-    "link": "https://www.onlinekhabar.com/2026/11/2049768/major-irrigation-canal-system-operating-at-full-capacity",
-    "image": "",
-    "published": "Tue, 03 Nov 2026 00:28:14 +0000"
-  },
-  {
-    "category": "नेपाल समाचार",
-    "title": "आज यस्तो छ विदेशी मुद्राको विनिमयदर",
-    "link": "https://www.onlinekhabar.com/2026/11/2049759/todays-foreign-exchange-rate-is-50",
-    "image": "",
-    "published": "Mon, 02 Nov 2026 23:37:10 +0000"
-  },
-  {
-    "category": "नेपाल समाचार",
-    "title": "खेलकुदमन्त्री पोखरेल थाइल्यान्ड जाने, एन्फाको निलम्बन फुकुवाका लागि वार्ता हुने",
-    "link": "https://www.onlinekhabar.com/2026/11/2049753/sports-minister-pokharel-to-visit-thailand-for-talks-to-lift-anfa-suspension",
-    "image": "",
-    "published": "Mon, 02 Nov 2026 17:39:12 +0000"
-  },
-  {
-    "category": "नेपाल समाचार",
-    "title": "काठमान्डु गोर्खाजका ‘म्याच विनर’ रासिद र करण",
-    "link": "https://www.onlinekhabar.com/2026/11/2049749/kathmandu-gorkhas-match-winners-rashid-and-karan",
-    "image": "",
-    "published": "Mon, 02 Nov 2026 17:22:36 +0000"
-  },
-  {
-    "category": "नेपाल समाचार",
-    "title": "चितवन राइनोज : तीन खेलमा दुई कप्तान, दुई फरक नतिजा",
-    "link": "https://www.onlinekhabar.com/2026/11/2049746/chitwan-rhinos-two-captains-in-three-games-two-different-results",
-    "image": "",
-    "published": "Mon, 02 Nov 2026 17:00:51 +0000"
-  },
-  {
-    "category": "नेपाल समाचार",
-    "title": "प्रक्रिया पूरा गर्दा पनि धितोपत्र बोर्डले किन रोकिरहेको छ आईपीओ ?",
-    "link": "https://www.onlinekhabar.com/2026/11/2049105/why-is-the-securities-and-exchange-board-of-nepal-seb-stopping-the-ipo-even-after-completing-the-process",
-    "image": "",
-    "published": "Mon, 02 Nov 2026 15:49:47 +0000"
-  },
-  {
-    "category": "नेपाल समाचार",
-    "title": "चित्ताकर्षक शे-फोक्सुण्डो ताल (तस्वीरहरू)",
-    "link": "https://www.onlinekhabar.com/2026/11/2048931/the-breathtaking-shey-phoksundo-lake-photos",
-    "image": "",
-    "published": "Mon, 02 Nov 2026 15:49:15 +0000"
-  },
-  {
-    "category": "नेपाल समाचार",
-    "title": "सत्ता र समीकरण फेरिंदा नफेरिएका परशुराम, ५ वर्षे कार्यकाल पूरा गर्ने पहिलो प्रदेश प्रमुख",
-    "link": "https://www.onlinekhabar.com/2026/11/2049000/parashuram-who-remained-unchanged-despite-changes-in-power-and-equations-is-the-first-provincial-chief-to-complete-a-5-year-term",
-    "image": "",
-    "published": "Mon, 02 Nov 2026 15:47:20 +0000"
-  },
-  {
     "category": "सेतोपाटी",
-    "title": "पाँच बंगलादेशी नागरिक सशस्त्र प्रहरीको नियन्त्रणमा",
-    "link": "https://www.setopati.com/social/401878",
+    "title": "मखमलीले जोडेको दिदीबहिनी-दाजुभाइको सम्बन्ध र किसानको आम्दानी (तस्बिरहरू)",
+    "link": "https://www.setopati.com/social/401717",
     "image": "",
-    "published": "Tue, 03 Nov 2026 09:39:46 +0545"
+    "published": "Tue, 03 Nov 2026 11:35:01 +0545"
   },
   {
     "category": "रातोपाटी",
-    "title": "११ वर्षदेखि अलपत्र मेची कोरिडोरको ठेक्का तोडियो",
-    "link": "https://www.ratopati.com/story/603010/mechi-corridor-contract-which-has-been-pending-for-11-years-has-been-terminated",
-    "image": "https://npcdn.ratopati.com/media/news/883404160_1112997841324172_8628469380367082483_n_zlGuXA1CIm.webp",
-    "published": "Tue, 03 Nov 2026 03:48:28 +0000"
+    "title": "८३ वर्षको उमेरमा पनि स्वास्थ्य स्वयंसेविकाका रूपमा सक्रिय कमला कार्की",
+    "link": "https://www.ratopati.com/story/603033/kamala-karki-still-active-as-a-health-volunteer-at-the-age-of-83",
+    "image": "https://npcdn.ratopati.com/media/news/kamala-karki--2934_wb0s64RsxP.webp",
+    "published": "Tue, 03 Nov 2026 05:57:46 +0000"
   }
 ]
