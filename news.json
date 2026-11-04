@@ -1,77 +1,147 @@
 [
   {
     "category": "नेपाल समाचार",
+    "title": "जाजरकोटमा कोदालो प्रहारबाट एक जनाको मृत्यु",
+    "link": "https://www.onlinekhabar.com/2026/11/2050693/one-person-dies-after-being-attacked-with-a-spade-in-jajarkot",
+    "image": "https://www.onlinekhabar.com/wp-content/uploads/2021/08/Death-body-900px.jpg",
+    "published": "Wed, 04 Nov 2026 03:37:24 +0000"
+  },
+  {
+    "category": "नेपाल समाचार",
+    "title": "केएस भरतले एनपीएल नखेल्ने",
+    "link": "https://www.onlinekhabar.com/2026/11/2050662/ks-bharat-will-not-play-in-npl",
+    "image": "https://www.onlinekhabar.com/wp-content/uploads/2026/08/ks-bharat.jpg",
+    "published": "Wed, 04 Nov 2026 03:20:52 +0000"
+  },
+  {
+    "category": "नेपाल समाचार",
+    "title": "जलजलाका विपद् प्रभावित क्षेत्रको भौगर्भिक अध्ययन",
+    "link": "https://www.onlinekhabar.com/2026/11/2050679/geological-study-of-flood-disaster-affected-areas",
+    "image": "https://www.onlinekhabar.com/wp-content/uploads/2026/11/jaljala-badhi-adhyan-toli-1024x599.jpg",
+    "published": "Wed, 04 Nov 2026 03:16:30 +0000"
+  },
+  {
+    "category": "नेपाल समाचार",
+    "title": "मिठाई कति सुरक्षित ?, ४३३ पसल मापदण्ड बाहिर",
+    "link": "https://www.onlinekhabar.com/2026/11/2050568/how-safe-are-sweets-433-shops-outside-standards",
+    "image": "https://www.onlinekhabar.com/wp-content/uploads/2026/11/mithai-pasal-1-1024x576.jpg",
+    "published": "Wed, 04 Nov 2026 03:15:27 +0000"
+  },
+  {
+    "category": "नेपाल समाचार",
+    "title": "प्रधानमन्त्री बालेनलाई पनि भेट्ने भारतीय विदेश सचिवको तयारी",
+    "link": "https://www.onlinekhabar.com/2026/11/2050680/indian-foreign-secretary-prepares-to-meet-prime-minister-balen",
+    "image": "https://www.onlinekhabar.com/wp-content/uploads/2026/11/balen-and-mishri-1024x500.jpg",
+    "published": "Wed, 04 Nov 2026 03:13:43 +0000"
+  },
+  {
+    "category": "नेपाल समाचार",
+    "title": "दुई गोलले पछि परेको अवस्था उल्टाउँदै युनाइटेडको उत्कृष्ट पुनरागमन जित",
+    "link": "https://www.onlinekhabar.com/2026/11/2050668/united-pull-off-a-stunning-comeback-win-after-coming-from-two-goals-down",
+    "image": "https://www.onlinekhabar.com/wp-content/uploads/2026/11/unitedwin.png",
+    "published": "Wed, 04 Nov 2026 02:50:16 +0000"
+  },
+  {
+    "category": "नेपाल समाचार",
+    "title": "माटो खन्ने क्रममा ढिस्कोले पुरिएर चार जना घाइते",
+    "link": "https://www.onlinekhabar.com/2026/11/2050669/four-injured-after-being-buried-by-landslide-while-digging-soil",
+    "image": "https://www.onlinekhabar.com/wp-content/uploads/2026/11/Mato-dhisko.jpg",
+    "published": "Wed, 04 Nov 2026 02:47:38 +0000"
+  },
+  {
+    "category": "नेपाल समाचार",
+    "title": "बुद्धिस्ट सर्किटको अवधारणाले बुद्धमय नेपाल बन्छ ?",
+    "link": "https://www.onlinekhabar.com/2026/11/2050535/will-the-concept-of-buddhist-circuit-create-a-buddhist-nepal",
+    "image": "https://www.onlinekhabar.com/wp-content/uploads/2026/11/bipin-adhikari-1024x500.jpg",
+    "published": "Wed, 04 Nov 2026 02:45:51 +0000"
+  },
+  {
+    "category": "नेपाल समाचार",
+    "title": "अमेरिकी मध्यावधि निर्वाचन : प्रारम्भिक नतिजामा ट्रम्पको रिपब्लिकन पार्टी पछाडि",
+    "link": "https://www.onlinekhabar.com/2026/11/2050658/us-midterm-elections-trumps-republican-party-lags-behind-in-early-results",
+    "image": "https://www.onlinekhabar.com/wp-content/uploads/2026/01/DONALD-TRUMP-1024x500.jpg",
+    "published": "Wed, 04 Nov 2026 02:07:30 +0000"
+  },
+  {
+    "category": "नेपाल समाचार",
+    "title": "रौतहटमा अज्ञात समूहको गोली प्रहारबाट एक जना घाइते",
+    "link": "https://www.onlinekhabar.com/2026/11/2050655/one-injured-in-shooting-by-unknown-group-in-rautahat",
+    "image": "https://www.onlinekhabar.com/wp-content/uploads/2024/03/police-logo.jpg",
+    "published": "Wed, 04 Nov 2026 02:01:34 +0000"
+  },
+  {
+    "category": "नेपाल समाचार",
     "title": "मासबेस कि क्याडरबेस ?",
     "link": "https://www.onlinekhabar.com/2026/11/2049988/massbase-or-cadrebase",
-    "image": "https://www.onlinekhabar.com/wp-content/uploads/2026/11/puru900.jpg",
+    "image": "",
     "published": "Wed, 04 Nov 2026 01:35:12 +0000"
   },
   {
     "category": "नेपाल समाचार",
     "title": "डोल्पा कारागारबाट भागेका थप दुई कैदी पक्राउ, अझै चार जना फरार",
     "link": "https://www.onlinekhabar.com/2026/11/2050644/two-more-prisoners-who-escaped-from-dolpa-prison-arrested-four-more-absconding",
-    "image": "https://www.onlinekhabar.com/wp-content/uploads/2026/11/dolpa-kaidi-farar-1024x500.jpg",
+    "image": "",
     "published": "Wed, 04 Nov 2026 01:32:39 +0000"
   },
   {
     "category": "नेपाल समाचार",
     "title": "पाथीभरामा दर्शनार्थीको घुइँचो, रातभर हिँडेर दर्शन",
     "link": "https://www.onlinekhabar.com/2026/11/2050637/pilgrims-throng-pathibhara-walk-all-night-to-see-the-darshan",
-    "image": "https://www.onlinekhabar.com/wp-content/uploads/2026/11/Pathivara-Darsan.jpg",
+    "image": "",
     "published": "Wed, 04 Nov 2026 01:19:02 +0000"
   },
   {
     "category": "नेपाल समाचार",
     "title": "पाँच फार्ममा च्याउखेती गर्दै पार्वती, वार्षिक दुई लाखसम्म आम्दानी",
     "link": "https://www.onlinekhabar.com/2026/11/2050627/parvati-cultivates-mushrooms-on-five-farms-earning-up-to-rs-200000-annually",
-    "image": "https://www.onlinekhabar.com/wp-content/uploads/2026/11/Mashroom-kheti_chyau-kheti.jpg",
+    "image": "",
     "published": "Wed, 04 Nov 2026 01:01:26 +0000"
   },
   {
     "category": "नेपाल समाचार",
     "title": "नासाको २२ वर्ष पुरानो टेलिस्कोप पृथ्वीमा खस्दै, भारत पनि सम्भावित जोखिम क्षेत्रमा",
     "link": "https://www.onlinekhabar.com/2026/11/2050624/nasas-22-year-old-telescope-falling-to-earth-india-also-in-potential-danger-zone",
-    "image": "https://www.onlinekhabar.com/wp-content/uploads/2026/11/NASA-Swift-re-enter-in-Atmosphere-1024x542.jpg",
+    "image": "",
     "published": "Wed, 04 Nov 2026 00:57:43 +0000"
   },
   {
     "category": "नेपाल समाचार",
     "title": "मनाङ भ्रमणमा भारतीय पर्यटकको आकर्षण बढ्दो",
     "link": "https://www.onlinekhabar.com/2026/11/2050623/indian-tourists-attraction-to-manang-is-increasing",
-    "image": "https://www.onlinekhabar.com/wp-content/uploads/2026/11/Tourist-at-Manang.jpg",
+    "image": "",
     "published": "Wed, 04 Nov 2026 00:52:44 +0000"
   },
   {
     "category": "नेपाल समाचार",
     "title": "जलपर्यटन व्यवसायमा सावधानी अपनाउन आग्रह",
     "link": "https://www.onlinekhabar.com/2026/11/2050621/urge-to-exercise-caution-in-the-tourism-industry",
-    "image": "https://www.onlinekhabar.com/wp-content/uploads/2025/05/fewatal.jpg",
+    "image": "",
     "published": "Wed, 04 Nov 2026 00:48:17 +0000"
   },
   {
     "category": "नेपाल समाचार",
     "title": "कृषि पढेका युवाको रोजाइमा पुष्पखेती",
     "link": "https://www.onlinekhabar.com/2026/11/2050618/flower-farming-is-the-choice-of-young-people-who-have-studied-agriculture",
-    "image": "https://www.onlinekhabar.com/wp-content/uploads/2026/11/ful-kheti_flower-kheti_banke-1024x599.jpg",
+    "image": "",
     "published": "Wed, 04 Nov 2026 00:45:51 +0000"
   },
   {
     "category": "नेपाल समाचार",
     "title": "इजरायललाई दिँदै आएको वार्षिक ३.८ अर्ब डलर सहायता रोक्ने ट्रम्पको घोषणा",
     "link": "https://www.onlinekhabar.com/2026/11/2050616/trump-announces-to-cut-3-8-billion-in-annual-aid-to-israel",
-    "image": "https://www.onlinekhabar.com/wp-content/uploads/2026/07/trump-and-netanyahu.png",
+    "image": "",
     "published": "Wed, 04 Nov 2026 00:25:31 +0000"
   },
   {
     "category": "नेपाल समाचार",
     "title": "मौसम पूर्वानुमान : कतै हल्का वर्षा र हिमपात, कतै हुस्सुकुहिरो",
     "link": "https://www.onlinekhabar.com/2026/11/2050612/3-day-weather-forecast-light-rain-and-snow-in-some-places-fog-in-others",
-    "image": "https://www.onlinekhabar.com/wp-content/uploads/2026/10/Himali-Goth-7-1024x669.jpg",
+    "image": "",
     "published": "Tue, 03 Nov 2026 23:44:51 +0000"
   },
   {
     "category": "नेपाल समाचार",
-    "title": "भारतीय विदेश सचिव आज काठमाडौं आउँदै",
+    "title": "बालेनको भारत भ्रमण तयारीका लागि भारतीय विदेश सचिव आज काठमाडौं आउँदै",
     "link": "https://www.onlinekhabar.com/2026/11/2050607/indian-foreign-secretary-to-arrive-in-kathmandu-today",
     "image": "",
     "published": "Tue, 03 Nov 2026 23:30:28 +0000"
@@ -140,87 +210,17 @@
     "published": "Tue, 03 Nov 2026 16:03:40 +0000"
   },
   {
-    "category": "नेपाल समाचार",
-    "title": "कर्णाली करिडोर : वर्षैपिच्छे म्याद थपिने, निर्माण गति नबढ्ने",
-    "link": "https://www.onlinekhabar.com/2026/11/2049802/karnali-corridor-deadline-will-be-extended-year-after-year-construction-speed-will-not-increase",
-    "image": "",
-    "published": "Tue, 03 Nov 2026 16:02:46 +0000"
-  },
-  {
-    "category": "नेपाल समाचार",
-    "title": "बैंकहरूको लगानीमा बढ्यो प्रतिफल, आधा दर्जनले लाभांश दिन नसक्ने",
-    "link": "https://www.onlinekhabar.com/2026/11/2050507/banks-investment-returns-increase-half-a-dozen-unable-to-pay-dividends",
-    "image": "",
-    "published": "Tue, 03 Nov 2026 16:01:00 +0000"
-  },
-  {
-    "category": "नेपाल समाचार",
-    "title": "रास्वपाले निर्देशन दिन्छ, सरकार गर्दैन वास्ता",
-    "link": "https://www.onlinekhabar.com/2026/11/2050407/the-rsp-gives-instructions-the-government-doesnt-care",
-    "image": "",
-    "published": "Tue, 03 Nov 2026 15:59:35 +0000"
-  },
-  {
-    "category": "नेपाल समाचार",
-    "title": "त्रिविमा बेतलबी बिदा जोडेर अझै खाइरहेछन् पेन्सन",
-    "link": "https://www.onlinekhabar.com/2026/11/2050472/tribhuvan-university-students-are-still-receiving-their-pensions-despite-taking-unpaid-leave",
-    "image": "",
-    "published": "Tue, 03 Nov 2026 15:57:04 +0000"
-  },
-  {
-    "category": "नेपाल समाचार",
-    "title": "गुण्डु पुगेर ओलीलाई भेटेर फर्किए गगन",
-    "link": "https://www.onlinekhabar.com/2026/11/2050592/gagan-returned-after-reaching-gundu-and-meeting-oli",
-    "image": "",
-    "published": "Tue, 03 Nov 2026 15:50:40 +0000"
-  },
-  {
-    "category": "नेपाल समाचार",
-    "title": "नि:शुल्क एआई तालिममा ६८ हजारभन्दा बढीको आवेदन",
-    "link": "https://www.onlinekhabar.com/2026/11/2050587/over-68000-apply-for-free-ai-training",
-    "image": "",
-    "published": "Tue, 03 Nov 2026 15:19:47 +0000"
-  },
-  {
-    "category": "नेपाल समाचार",
-    "title": "रुसविरुद्ध समर्थन जुटाउन युक्रेनी राष्ट्रपति जेलेन्स्की जर्मनी पुगे",
-    "link": "https://www.onlinekhabar.com/2026/11/2050584/ukrainian-president-zelensky-visits-germany-to-rally-support-against-russia",
-    "image": "",
-    "published": "Tue, 03 Nov 2026 15:10:07 +0000"
-  },
-  {
-    "category": "नेपाल समाचार",
-    "title": "कोपमा जलवायु न्याय र हिमाल संरक्षणका मुद्दा सशक्त रूपमा उठाउँछौं : मन्त्री चौधरी",
-    "link": "https://www.onlinekhabar.com/2026/11/2050581/we-will-strongly-raise-the-issues-of-climate-justice-and-mountain-protection-at-cop-minister-chaudhary",
-    "image": "",
-    "published": "Tue, 03 Nov 2026 14:41:30 +0000"
-  },
-  {
-    "category": "नेपाल समाचार",
-    "title": "कर्णालीका मुख्यमन्त्री र इजरायली राजदूतबीच भेटवार्ता",
-    "link": "https://www.onlinekhabar.com/2026/11/2050570/karnali-chief-minister-meets-israeli-ambassador",
-    "image": "",
-    "published": "Tue, 03 Nov 2026 14:35:28 +0000"
-  },
-  {
-    "category": "नेपाल समाचार",
-    "title": "जय नेपाल पार्टीले सार्वजनिक गर्‍यो संविधान संशोधनसहित आठबुँदे संकल्प",
-    "link": "https://www.onlinekhabar.com/2026/11/2050564/jai-nepal-party-makes-public-eight-point-resolution-including-constitutional-amendment",
-    "image": "",
-    "published": "Tue, 03 Nov 2026 14:22:25 +0000"
-  },
-  {
     "category": "सेतोपाटी",
-    "title": "इसराइललाई दिँदै आएको वार्षिक चार अर्ब डलर सहायता रोक्ने ट्रम्पको घोषणा",
-    "link": "https://www.setopati.com/politics/401962",
+    "title": "सेयर बजारमा तीन दिन उकालो लागेको जलविद्युत क्षेत्र फेरि किन लाग्यो ओरालो?",
+    "link": "https://www.setopati.com/kinmel/banking/401956",
     "image": "",
-    "published": "Wed, 04 Nov 2026 07:37:27 +0545"
+    "published": "Wed, 04 Nov 2026 09:39:25 +0545"
   },
   {
     "category": "रातोपाटी",
-    "title": "स्वास्थ्य सुधारको घोषणा दराजमै थन्किने जोखिम",
-    "link": "https://www.ratopati.com/story/603223/health-reform-announcements-risk-being-shelved",
-    "image": "https://npcdn.ratopati.com/media/news/nisha_UyFj5uawnh.webp",
-    "published": "Wed, 04 Nov 2026 02:03:15 +0000"
+    "title": "अमेरिकाको जर्जियामा केइशा लान्स बटम्स विजयी, राज्यको गभर्नर बन्ने पहिलो अश्वेत महिला",
+    "link": "https://www.ratopati.com/story/603234/keisha-lance-bottoms-wins-georgia-election-becomes-first-black-woman-to-be-governor",
+    "image": "https://npcdn.ratopati.com/media/news/image_Xzlr4ccmf8.webp",
+    "published": "Wed, 04 Nov 2026 03:50:42 +0000"
   }
 ]
