@@ -1,72 +1,163 @@
 [
   {
     "category": "नेपाल समाचार",
+    "title": "लगातार सातौं हारपछि पनि ओमान शीर्ष चारमा, नामिबियाले प्लेअफ खेल्ने",
+    "link": "https://www.onlinekhabar.com/2026/11/2051145/oman-in-top-four-despite-seventh-consecutive-loss-namibia-to-play-in-playoffs",
+    "image": "https://www.onlinekhabar.com/wp-content/uploads/2026/11/omancricket1.png",
+    "published": "Wed, 04 Nov 2026 14:09:39 +0000"
+  },
+  {
+    "category": "नेपाल समाचार",
+    "title": "सरकारको बेरुजु साढे १० अर्ब बढी, संरचना र कागजातमा आगजनीले अझ बढायो",
+    "link": "https://www.onlinekhabar.com/2026/11/2051153/governments-deficit-exceeds-10-5-billion-further-increased-by-arson-of-structures-and-documents",
+    "image": "https://www.onlinekhabar.com/wp-content/uploads/2026/11/finance-ministry-1024x572.png",
+    "published": "Wed, 04 Nov 2026 14:07:06 +0000"
+  },
+  {
+    "category": "नेपाल समाचार",
+    "title": "रौतहटमा स्रोत नखुलेको ४४ लाख रकम भेटियो, दुई जना पक्राउ",
+    "link": "https://www.onlinekhabar.com/2026/11/2051152/rs-4-4-million-of-undisclosed-source-found-in-rautahat-two-arrested",
+    "image": "https://www.onlinekhabar.com/wp-content/uploads/2026/11/Nagad.jpg",
+    "published": "Wed, 04 Nov 2026 14:04:54 +0000"
+  },
+  {
+    "category": "नेपाल समाचार",
+    "title": "ओलीले खुम्च्याए शंकर पोखरेलको भूमिका",
+    "link": "https://www.onlinekhabar.com/2026/11/2050645/oli-downplays-shankar-pokharels-role",
+    "image": "https://www.onlinekhabar.com/wp-content/uploads/2026/11/KP-Sharma-Oli-and-Shankar-Pokharel-UML-1024x500.jpg",
+    "published": "Wed, 04 Nov 2026 13:47:30 +0000"
+  },
+  {
+    "category": "नेपाल समाचार",
+    "title": "एकीकृत ‘एन्टी साइबर स्क्याम सेन्टर’ ले शुक्रबारदेखि काम थाल्ने, उजुरी गर्न हटलाइन",
+    "link": "https://www.onlinekhabar.com/2026/11/2051143/integrated-anti-cyber-scam-center-to-start-operations-from-friday-hotline-to-file-complaints",
+    "image": "https://www.onlinekhabar.com/wp-content/uploads/2026/01/online-thagi_-fraud-1024x569.png",
+    "published": "Wed, 04 Nov 2026 13:46:52 +0000"
+  },
+  {
+    "category": "नेपाल समाचार",
+    "title": "नेकपा एमाले मधेश सरकारमा फर्किन लागेको हो ?",
+    "link": "https://www.onlinekhabar.com/2026/11/2050844/is-the-cpn-uml-going-to-return-to-the-madhesh-government",
+    "image": "https://www.onlinekhabar.com/wp-content/uploads/2026/11/Madhesh-Congress-Uml-1024x500.jpg",
+    "published": "Wed, 04 Nov 2026 13:45:11 +0000"
+  },
+  {
+    "category": "नेपाल समाचार",
+    "title": "प्रहरीको ३४औं आईजीपी बनेका मनोज केसी को हुन् ?",
+    "link": "https://www.onlinekhabar.com/2026/11/2050915/who-is-manoj-kc-who-has-become-the-34th-igp-of-nepal-police",
+    "image": "https://www.onlinekhabar.com/wp-content/uploads/2026/11/Manoj-KC-AIG.jpg",
+    "published": "Wed, 04 Nov 2026 13:43:51 +0000"
+  },
+  {
+    "category": "नेपाल समाचार",
+    "title": "जनकपुरधाम रेल्वे सेवाको सुधार गर्न माग",
+    "link": "https://www.onlinekhabar.com/2026/11/2051144/demand-to-improve-janakpurdham-railway-service",
+    "image": "https://www.onlinekhabar.com/wp-content/uploads/2026/11/Railway-sewa.jpg",
+    "published": "Wed, 04 Nov 2026 13:43:48 +0000"
+  },
+  {
+    "category": "नेपाल समाचार",
+    "title": "आफ्नै प्रशासनिक भवन बनाउन असफल पोखरा महानगर",
+    "link": "https://www.onlinekhabar.com/2026/11/2051123/pokhara-metropolitan-city-fails-to-build-its-own-administrative-building",
+    "image": "https://www.onlinekhabar.com/wp-content/uploads/2026/11/Pokhara-mahanagar-bhawan-1024x500.jpg",
+    "published": "Wed, 04 Nov 2026 13:31:20 +0000"
+  },
+  {
+    "category": "नेपाल समाचार",
+    "title": "वैदेशिक रोजगारीमा ज्यान गुमाएका श्रमिकका परिवारलाई त्रिभुवन विमानस्थलमा विश्राम कक्ष",
+    "link": "https://www.onlinekhabar.com/2026/11/2051129/rest-room-at-tribhuvan-airport-for-families-of-workers-who-lost-their-lives-in-foreign-employment",
+    "image": "https://www.onlinekhabar.com/wp-content/uploads/2026/11/885485914_10166720347397994_4628307060881256108_n-1024x768.jpg",
+    "published": "Wed, 04 Nov 2026 13:27:08 +0000"
+  },
+  {
+    "category": "नेपाल समाचार",
+    "title": "ओली-थापा संवादको अन्तर्य : मधेश सरकारदेखि विपक्षी मोर्चाबन्दीसम्म",
+    "link": "https://www.onlinekhabar.com/2026/11/2051119/the-oli-thapa-dialogue-from-the-madhesh-government-to-the-oppositions-frontline",
+    "image": "",
+    "published": "Wed, 04 Nov 2026 13:25:24 +0000"
+  },
+  {
+    "category": "नेपाल समाचार",
+    "title": "आधारभूत तहका प्रहरीको गुनासो सुन्न संयन्त्र बनाइन्छ : नवनियुक्त आईजीपी केसी",
+    "link": "https://www.onlinekhabar.com/2026/11/2051125/mechanism-to-be-formed-to-hear-complaints-from-grassroots-police-newly-appointed-igp-kc",
+    "image": "",
+    "published": "Wed, 04 Nov 2026 13:24:38 +0000"
+  },
+  {
+    "category": "नेपाल समाचार",
+    "title": "गुणस्तर मापन र प्रमाणीकरण अब स्वदेशमै, ‘नेपाल प्रत्यायन केन्द्र’ सुरु",
+    "link": "https://www.onlinekhabar.com/2026/11/2051121/quality-measurement-and-certification-now-available-domestically-nepal-accreditation-center-launched",
+    "image": "",
+    "published": "Wed, 04 Nov 2026 13:14:09 +0000"
+  },
+  {
+    "category": "नेपाल समाचार",
     "title": "शिक्षामन्त्री भन्छन्– त्रिविको करिब ७०५ रोपनी जग्गा फिर्ता ल्यायौं",
     "link": "https://www.onlinekhabar.com/2026/11/2051116/education-minister-says-we-have-brought-back-approximately-705-ropanis-of-land-belonging-to-tu",
-    "image": "https://www.onlinekhabar.com/wp-content/uploads/2026/09/Sasmit-pokharel-3-1024x500.jpg",
+    "image": "",
     "published": "Wed, 04 Nov 2026 13:00:37 +0000"
   },
   {
     "category": "नेपाल समाचार",
     "title": "चोभारमा ढुवानी पार्क निर्माण पहल",
     "link": "https://www.onlinekhabar.com/2026/11/2051110/initiative-to-build-a-transportation-park-in-chobhar",
-    "image": "https://www.onlinekhabar.com/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-04-at-4.59.30-PM-768x1024.jpeg",
+    "image": "",
     "published": "Wed, 04 Nov 2026 12:55:49 +0000"
   },
   {
     "category": "नेपाल समाचार",
     "title": "गोविन्द केसीको आन्दोलनमा टेकेर सत्तामा पुगे, कुर्सी पाएपछि साथ छाडे",
     "link": "https://www.onlinekhabar.com/2026/11/2050989/he-came-to-power-by-relying-on-govinda-kcs-movement-but-left-after-getting-the-chair",
-    "image": "https://www.onlinekhabar.com/wp-content/uploads/2026/11/Mr.Govinda-Kc-1024x500.png",
+    "image": "",
     "published": "Wed, 04 Nov 2026 12:55:28 +0000"
   },
   {
     "category": "नेपाल समाचार",
     "title": "उड्डयन प्राधिकरण र भन्सार विभागबीच राष्ट्रिय एकद्वार प्रणालीबारे सम्झौता",
     "link": "https://www.onlinekhabar.com/2026/11/2051103/agreement-between-the-civil-aviation-authority-and-the-customs-department-on-a-national-single-window-system",
-    "image": "https://www.onlinekhabar.com/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-04-at-5.04.21-PM-e1793796292516.jpeg",
+    "image": "",
     "published": "Wed, 04 Nov 2026 12:45:13 +0000"
   },
   {
     "category": "नेपाल समाचार",
     "title": "रोमान्सदेखि बोल्ड र एक्शनसम्म, समयसँगै बदलिँदै गएको तब्बूको अभिनय यात्रा",
     "link": "https://www.onlinekhabar.com/2026/11/2051092/from-romance-to-bold-and-action-tabus-acting-journey-has-changed-over-time",
-    "image": "https://www.onlinekhabar.com/wp-content/uploads/2024/05/Tabbu.jpg",
+    "image": "",
     "published": "Wed, 04 Nov 2026 12:44:00 +0000"
   },
   {
     "category": "नेपाल समाचार",
     "title": "कांग्रेसले भन्यो- वैधानिकतामाथिको प्रश्न षड्यन्त्र र सुनियोजित दुष्प्रचार हो",
     "link": "https://www.onlinekhabar.com/2026/11/2051098/congress-said-the-question-of-legality-is-a-conspiracy-and-well-planned-propaganda",
-    "image": "https://www.onlinekhabar.com/wp-content/uploads/2026/05/Pradip-Poudel-8-1024x683.jpg",
+    "image": "",
     "published": "Wed, 04 Nov 2026 12:38:45 +0000"
   },
   {
     "category": "नेपाल समाचार",
     "title": "विरोध प्रदर्शनपछि बङ्गलादेशमा गार्मेन्ट कामदारको तलब बढाउन सहमति",
     "link": "https://www.onlinekhabar.com/2026/11/2051082/bangladesh-agrees-to-raise-garment-workers-wages-after-protests",
-    "image": "https://www.onlinekhabar.com/wp-content/uploads/2026/11/bangaladesh-1024x500.jpg",
+    "image": "",
     "published": "Wed, 04 Nov 2026 12:35:23 +0000"
   },
   {
     "category": "नेपाल समाचार",
     "title": "पर्यटकलाई अनुमतिविना निषेधित क्षेत्र प्रवेश गराउने एजेन्सी र गाइडलाई कारबाही",
     "link": "https://www.onlinekhabar.com/2026/11/2051081/action-taken-against-agencies-and-guides-who-allow-tourists-to-enter-prohibited-areas-without-permission",
-    "image": "https://www.onlinekhabar.com/wp-content/uploads/2022/07/immigration-department.jpg",
+    "image": "",
     "published": "Wed, 04 Nov 2026 12:27:57 +0000"
   },
   {
     "category": "नेपाल समाचार",
     "title": "वैधानिकताबारे उठेको आरोपको स्वतन्त्र छानबिन गर्न कांग्रेसको माग",
     "link": "https://www.onlinekhabar.com/2026/11/2051079/congress-demands-independent-investigation-into-allegations-raised-about-legality",
-    "image": "https://www.onlinekhabar.com/wp-content/uploads/2026/11/bishwa-prakash-1024x500.jpg",
+    "image": "",
     "published": "Wed, 04 Nov 2026 12:27:22 +0000"
   },
   {
     "category": "नेपाल समाचार",
     "title": "बलिउडकी नयाँ स्टार किड : को हुन् नाओमिका सरन ?",
     "link": "https://www.onlinekhabar.com/2026/11/2051058/bollywoods-new-star-kid-who-is-nomika-saran",
-    "image": "https://www.onlinekhabar.com/wp-content/uploads/2026/11/Naomika-Saran-33.jpg",
+    "image": "",
     "published": "Wed, 04 Nov 2026 12:22:53 +0000"
   },
   {
@@ -119,108 +210,17 @@
     "published": "Wed, 04 Nov 2026 12:03:00 +0000"
   },
   {
-    "category": "नेपाल समाचार",
-    "title": "ठूलो आशा र विश्वासको मतलाई सरकारले सही ढंगले प्रयोग गरिरहेको छैन : विश्वप्रकाश शर्मा",
-    "link": "https://www.onlinekhabar.com/2026/11/2051030/the-government-is-not-using-the-vote-of-great-hope-and-confidence-in-the-right-way-bishwo-prakash-sharma",
-    "image": "",
-    "published": "Wed, 04 Nov 2026 12:01:58 +0000"
-  },
-  {
-    "category": "नेपाल समाचार",
-    "title": "मध्य त्रिशूली गंगाका कर्मचारीले महिनौंदेखि तलब पाएनन्, कम्पनीले माग्यो खर्च हिसाब",
-    "link": "https://www.onlinekhabar.com/2026/11/2051019/madhya-trishuli-ganga-employees-have-not-received-their-salaries-for-months-the-company-has-demanded-an-expense-account",
-    "image": "",
-    "published": "Wed, 04 Nov 2026 12:01:12 +0000"
-  },
-  {
-    "category": "नेपाल समाचार",
-    "title": "अफगानी नागरिकको निर्वासन रोक्न अमेरिकी अदालतको आदेश",
-    "link": "https://www.onlinekhabar.com/2026/11/2051024/us-court-orders-halting-deportation-of-afghan-national",
-    "image": "",
-    "published": "Wed, 04 Nov 2026 11:59:04 +0000"
-  },
-  {
-    "category": "नेपाल समाचार",
-    "title": "विश्वप्रकाश शर्माले भने- सिंहदरबार र बालुवाटारमा रमिता चलिरहेको छ",
-    "link": "https://www.onlinekhabar.com/2026/11/2051022/bishwa-prakash-sharma-said-there-is-a-lot-of-fun-going-on-in-singha-durbar-and-baluwatar",
-    "image": "",
-    "published": "Wed, 04 Nov 2026 11:56:53 +0000"
-  },
-  {
-    "category": "नेपाल समाचार",
-    "title": "इजरायलको निर्वाचन समितिले प्रधानमन्त्रीको आरोपलाई गर्‍यो अस्वीकार",
-    "link": "https://www.onlinekhabar.com/2026/11/2051020/israels-election-committee-rejects-pms-accusations",
-    "image": "",
-    "published": "Wed, 04 Nov 2026 11:53:48 +0000"
-  },
-  {
-    "category": "नेपाल समाचार",
-    "title": "रोहिङ्ग्या नरसंहार मुद्दामा नोभेम्बर १९ मा फैसला आउने",
-    "link": "https://www.onlinekhabar.com/2026/11/2051015/verdict-in-rohingya-genocide-case-to-be-delivered-on-november-19",
-    "image": "",
-    "published": "Wed, 04 Nov 2026 11:49:41 +0000"
-  },
-  {
-    "category": "नेपाल समाचार",
-    "title": "पत्रकारलाई विश्वप्रकाशको प्रश्न- तपाईंहरू सबै सुरक्षित हुनुहुन्छ ?",
-    "link": "https://www.onlinekhabar.com/2026/11/2051009/bishwaprakashs-question-to-the-journalist-are-you-all-safe",
-    "image": "",
-    "published": "Wed, 04 Nov 2026 11:42:37 +0000"
-  },
-  {
-    "category": "नेपाल समाचार",
-    "title": "मनास्लु क्षेत्रमा निरन्तर सुक्खा पहिरो",
-    "link": "https://www.onlinekhabar.com/2026/11/2051005/continuous-dry-landslides-in-manaslu-region",
-    "image": "",
-    "published": "Wed, 04 Nov 2026 11:41:44 +0000"
-  },
-  {
-    "category": "नेपाल समाचार",
-    "title": "एरिका गुरुङको खेल विकासका लागि अस्ट्रेलियाबाट तीन लाख सहयोग",
-    "link": "https://www.onlinekhabar.com/2026/11/2050998/australia-provides-rs-300000-assistance-for-erica-gurungs-sports-development",
-    "image": "",
-    "published": "Wed, 04 Nov 2026 11:39:38 +0000"
-  },
-  {
-    "category": "नेपाल समाचार",
-    "title": "‘न्यायपालिकाको साख जोगाउ, शंकाको घेरामा रहेका न्यायाधीशलाई छानबिन गर’",
-    "link": "https://www.onlinekhabar.com/2026/11/2050996/protect-the-reputation-of-the-judiciary-investigate-judges-under-suspicion",
-    "image": "",
-    "published": "Wed, 04 Nov 2026 11:37:30 +0000"
-  },
-  {
-    "category": "नेपाल समाचार",
-    "title": "कालोपत्र उप्किएको १६ वर्षपछि जयराम–हलेसी सडक मर्मत हुने",
-    "link": "https://www.onlinekhabar.com/2026/11/2050994/jayaram-halesi-road-to-be-repaired-16-years-after-blacktop-peeled-off",
-    "image": "",
-    "published": "Wed, 04 Nov 2026 11:34:37 +0000"
-  },
-  {
-    "category": "नेपाल समाचार",
-    "title": "बलिउड अभिनेत्रीहरूले ‘पटका नपड्काउनु’ भन्दा किन चर्काइयो बहस ?",
-    "link": "https://www.onlinekhabar.com/2026/11/2050984/why-did-bollywood-actresses-statement-about-not-cracking-firecrackers-spark-a-heated-debate",
-    "image": "",
-    "published": "Wed, 04 Nov 2026 11:28:43 +0000"
-  },
-  {
-    "category": "नेपाल समाचार",
-    "title": "स्थानीय तहबाटै स्वास्थ्य बीमामा सामूहिक आबद्धता र नवीकरण गर्न सकिने",
-    "link": "https://www.onlinekhabar.com/2026/11/2050986/group-affiliation-and-renewal-of-health-insurance-can-be-done-at-the-local-level",
-    "image": "",
-    "published": "Wed, 04 Nov 2026 11:21:53 +0000"
-  },
-  {
     "category": "सेतोपाटी",
-    "title": "कांग्रेसले भन्यो- सिंहदरबारमा आज रमिता छ",
-    "link": "https://www.setopati.com/politics/402024",
+    "title": "प्रहरी र नागरिकबीचको दूरी घटाउने गरी काम गर्न नवनियुक्त आइजिपी केसीलाई गृहमन्त्री गुरूङको निर्देशन",
+    "link": "https://www.setopati.com/politics/402028",
     "image": "",
-    "published": "Wed, 04 Nov 2026 18:25:00 +0545"
+    "published": "Wed, 04 Nov 2026 20:02:41 +0545"
   },
   {
     "category": "रातोपाटी",
-    "title": "नागरिक सेवाका क्षेत्रमा प्रभावकारी रूपमा काम गर्न गृहमन्त्रीको निर्देशन",
-    "link": "https://www.ratopati.com/story/603358/home-ministers-directive-to-work-effectively-in-the-field-of-civil-services",
-    "image": "https://npcdn.ratopati.com/media/news/1-igp-manoj-kc-npl-2_NKdy87Rg3p.webp",
-    "published": "Wed, 04 Nov 2026 13:01:17 +0000"
+    "title": "पदयात्रा अनुमति उल्लङ्घन गर्ने ट्रेकिङ एजेन्सीलाई ५० हजार जरिवाना",
+    "link": "https://www.ratopati.com/story/603375/trekking-agency-fined-rs-50000-for-violating-trekking-permit",
+    "image": "https://npcdn.ratopati.com/media/news/tourist_VESmmhswgy.webp",
+    "published": "Wed, 04 Nov 2026 14:22:58 +0000"
   }
 ]
