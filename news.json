@@ -1,72 +1,149 @@
 [
   {
     "category": "नेपाल समाचार",
+    "title": "सुन-चाँदीका सिक्का किन्नेहरूको भिड",
+    "link": "https://www.onlinekhabar.com/2026/11/2051379/crowds-of-people-buying-gold-and-silver-coins",
+    "image": "https://www.onlinekhabar.com/wp-content/uploads/2026/11/Asarfi-lina-line-4-1024x683.jpg",
+    "published": "Thu, 05 Nov 2026 05:58:23 +0000"
+  },
+  {
+    "category": "नेपाल समाचार",
+    "title": "अमेरिकी डेमोक्रेट सांसदले ट्रम्पमाथि महाअभियोग लगाउलान् ?",
+    "link": "https://www.onlinekhabar.com/2026/11/2051374/will-us-democratic-lawmakers-impeach-trump",
+    "image": "https://www.onlinekhabar.com/wp-content/uploads/2026/05/Trump-health-1024x500.jpg",
+    "published": "Thu, 05 Nov 2026 05:40:54 +0000"
+  },
+  {
+    "category": "नेपाल समाचार",
+    "title": "नवलपुरस्थित लोकाहा खोलाको पुरानो पुल सञ्चालनमा आउन करिब दुई साता लाग्ने",
+    "link": "https://www.onlinekhabar.com/2026/11/2051367/it-will-take-about-two-weeks-for-the-old-bridge-over-lokaha-river-in-nawalpur-to-be-operational",
+    "image": "https://www.onlinekhabar.com/wp-content/uploads/2026/11/Lokaha-Khola-bridge-maintenance-1024x574.jpg",
+    "published": "Thu, 05 Nov 2026 05:15:15 +0000"
+  },
+  {
+    "category": "नेपाल समाचार",
+    "title": "एकैदिन तोलामा १३ हजार ३ सय रुपैयाँ बढ्यो सुन",
+    "link": "https://www.onlinekhabar.com/2026/11/2051364/gold-price-rises-by-rs-13300-per-tola-in-one-day",
+    "image": "https://www.onlinekhabar.com/wp-content/uploads/2025/06/gold-image-generatad-by-ai.jpg",
+    "published": "Thu, 05 Nov 2026 05:07:02 +0000"
+  },
+  {
+    "category": "नेपाल समाचार",
+    "title": "साइबर ब्यूरोले मलाई खोज्दैछ, सत्तासँग डराइन्न :  सहमहामन्त्री शिवाकोटी",
+    "link": "https://www.onlinekhabar.com/2026/11/2051359/cyber-bureau-is-looking-for-me-dont-be-afraid-of-the-government-joint-general-secretary-shiwakoti",
+    "image": "https://www.onlinekhabar.com/wp-content/uploads/2026/11/ajayababu-siwakoti.jpg",
+    "published": "Thu, 05 Nov 2026 04:58:26 +0000"
+  },
+  {
+    "category": "नेपाल समाचार",
+    "title": "खोटाङमा रेबिजले एक महिलाको मृ*त्यु",
+    "link": "https://www.onlinekhabar.com/2026/11/2051355/woman-dies-of-rabies-in-khotang",
+    "image": "https://www.onlinekhabar.com/wp-content/uploads/2026/11/Rabies-killes-woman.jpg",
+    "published": "Thu, 05 Nov 2026 04:53:26 +0000"
+  },
+  {
+    "category": "नेपाल समाचार",
+    "title": "संघीयताको नौ बर्से अभ्यास समीक्षा गरेर संविधान संशोधन गर्नुपर्छ : मुख्यमन्त्री शाही",
+    "link": "https://www.onlinekhabar.com/2026/11/2051351/the-constitution-should-be-amended-after-reviewing-nine-years-of-federalism-chief-minister-shahi",
+    "image": "https://www.onlinekhabar.com/wp-content/uploads/2026/11/Mangal-bahadur-shahi-1024x599.jpg",
+    "published": "Thu, 05 Nov 2026 04:48:49 +0000"
+  },
+  {
+    "category": "नेपाल समाचार",
+    "title": "तिहारमा मौसम घमाइलो हुने",
+    "link": "https://www.onlinekhabar.com/2026/11/2051346/the-weather-will-be-sunny-during-tihar",
+    "image": "https://www.onlinekhabar.com/wp-content/uploads/2026/11/Tihar-weather-1230-1024x578.jpg",
+    "published": "Thu, 05 Nov 2026 04:43:24 +0000"
+  },
+  {
+    "category": "नेपाल समाचार",
+    "title": "घिस्रिने बौद्धिक, ताली पिट्ने भिड र प्रश्नसँग डराएको सत्ता",
+    "link": "https://www.onlinekhabar.com/2026/11/2051317/a-creeping-intellectual-a-clapping-crowd-and-a-government-afraid-of-questions",
+    "image": "https://www.onlinekhabar.com/wp-content/uploads/2026/11/bhoj900.jpg",
+    "published": "Thu, 05 Nov 2026 04:31:46 +0000"
+  },
+  {
+    "category": "नेपाल समाचार",
+    "title": "राहुघाटको सुरुङ प्रभावितलाई क्षतिपूर्ति वितरणको प्रक्रिया थालियो",
+    "link": "https://www.onlinekhabar.com/2026/11/2051327/process-of-distributing-compensation-to-those-affected-by-rahughat-tunnel-begins",
+    "image": "https://www.onlinekhabar.com/wp-content/uploads/2026/11/rahughat-Blasting-lee-Bhatkeayako-ghar-1.jpg",
+    "published": "Thu, 05 Nov 2026 04:16:23 +0000"
+  },
+  {
+    "category": "नेपाल समाचार",
+    "title": "कोरला नाका : कहिले बाढीपहिरोले छेक्छ, कहिले हिउँले",
+    "link": "https://www.onlinekhabar.com/2026/11/2051323/korala-border-sometimes-blocked-by-floods-and-landslides-sometimes-by-snow",
+    "image": "",
+    "published": "Thu, 05 Nov 2026 04:08:29 +0000"
+  },
+  {
+    "category": "नेपाल समाचार",
+    "title": "वायु प्रदूषण जोखिम कम गर्न काठमाडौं महानगरको आग्रह",
+    "link": "https://www.onlinekhabar.com/2026/11/2051320/kathmandu-metropolitan-city-urges-to-reduce-air-pollution-risks",
+    "image": "",
+    "published": "Thu, 05 Nov 2026 04:05:45 +0000"
+  },
+  {
+    "category": "नेपाल समाचार",
     "title": "अमेरिका–चीन सैन्य तनाव घटाउन वासिङ्टनमा ऐतिहासिक वार्ता, हटलाइन सुदृढ गर्ने सहमति",
     "link": "https://www.onlinekhabar.com/2026/11/2051316/historic-talks-in-washington-to-reduce-us-china-military-tensions-agreement-to-strengthen-hotline",
-    "image": "https://www.onlinekhabar.com/wp-content/uploads/2026/11/trump-and-Xi-1024x599.jpg",
+    "image": "",
     "published": "Thu, 05 Nov 2026 03:53:53 +0000"
   },
   {
     "category": "नेपाल समाचार",
-    "title": "तिहारको नजिकिंदा भक्तपुरमा ग्याँस अभाव कायमै, सिलिन्डर खोज्दै उपभोक्ता",
+    "title": "तिहार नजिकिंदा भक्तपुरमा ग्याँस अभाव कायमै, सिलिन्डर खोज्दै उपभोक्ता",
     "link": "https://www.onlinekhabar.com/2026/11/2051315/gas-shortage-persists-in-bhaktapur-as-tihar-approaches-consumers-searching-for-cylinders",
-    "image": "https://www.onlinekhabar.com/wp-content/uploads/2026/08/gasss2.jpg",
+    "image": "",
     "published": "Thu, 05 Nov 2026 03:52:11 +0000"
   },
   {
     "category": "नेपाल समाचार",
     "title": "यस्तो छ आज सागसब्जी र फलफूलको थोक मूल्य",
     "link": "https://www.onlinekhabar.com/2026/11/2051310/this-is-the-wholesale-price-of-vegetables-and-fruits-today-42",
-    "image": "https://www.onlinekhabar.com/wp-content/uploads/2025/04/Kalimati-tarkati-1024x462.jpg",
+    "image": "",
     "published": "Thu, 05 Nov 2026 03:43:18 +0000"
   },
   {
     "category": "नेपाल समाचार",
-    "title": "इजरायलसँगको सम्बन्ध रिपब्लिकनहरूका लागि राजनीतिक भार बन्यो : जेडी भान्स",
-    "link": "https://www.onlinekhabar.com/2026/11/2051312/relations-with-israel-have-become-a-political-burden-for-republicans-j-d-vance",
-    "image": "https://www.onlinekhabar.com/wp-content/uploads/2026/06/bhans-1024x500.png",
-    "published": "Thu, 05 Nov 2026 03:41:51 +0000"
-  },
-  {
-    "category": "नेपाल समाचार",
-    "title": "महँगियो भाइमसला, पिस्ता किलोकै ४ हजार",
+    "title": "महँगियो भाइमसला, पेस्ता किलोकै ४ हजार",
     "link": "https://www.onlinekhabar.com/2026/11/2051170/spices-pistachios-become-expensive-at-rs-4000-per-kilo",
-    "image": "https://www.onlinekhabar.com/wp-content/uploads/2026/11/Pista-1024x683.jpg",
+    "image": "",
     "published": "Thu, 05 Nov 2026 03:35:17 +0000"
   },
   {
     "category": "नेपाल समाचार",
     "title": "जग्गाको धनीपुर्जा माग्दै झापामा ६० हजार परिवारको आवेदन",
     "link": "https://www.onlinekhabar.com/2026/11/2051286/60000-families-in-jhapa-apply-for-land-ownership-certificates",
-    "image": "https://www.onlinekhabar.com/wp-content/uploads/2021/04/lalpurja-jaggadhani-purja.jpg",
+    "image": "",
     "published": "Thu, 05 Nov 2026 03:33:34 +0000"
   },
   {
     "category": "नेपाल समाचार",
     "title": "कर्णाली पर्यटन गुरुयोजनामा १२ अर्ब ३१ करोड बजेट",
     "link": "https://www.onlinekhabar.com/2026/11/2051292/karnali-tourism-master-plan-rs-12-31-billion-budget",
-    "image": "https://www.onlinekhabar.com/wp-content/uploads/2026/11/Karnali-Tourism-place-7-1024x576.jpg",
+    "image": "",
     "published": "Thu, 05 Nov 2026 03:32:51 +0000"
   },
   {
     "category": "नेपाल समाचार",
     "title": "राहुघाटको सुरुङ प्रभावितलाई क्षतिपूर्ति वितरण प्रक्रिया थालियो",
     "link": "https://www.onlinekhabar.com/2026/11/2051289/compensation-distribution-process-begins-for-those-affected-by-rahughat-tunnel",
-    "image": "https://www.onlinekhabar.com/wp-content/uploads/2026/11/rahughat-hydro-pravabit-1024x599.jpg",
+    "image": "",
     "published": "Thu, 05 Nov 2026 03:18:59 +0000"
   },
   {
     "category": "नेपाल समाचार",
     "title": "कांग्रेस पदाधिकारीहरू आन्तरिक छलफलमा",
     "link": "https://www.onlinekhabar.com/2026/11/2051277/congress-officials-in-internal-discussions",
-    "image": "https://www.onlinekhabar.com/wp-content/uploads/2026/09/Gagankumar-thapa-1024x500.jpg",
+    "image": "",
     "published": "Thu, 05 Nov 2026 03:09:54 +0000"
   },
   {
     "category": "नेपाल समाचार",
     "title": "एआईबाट वन्यजन्तुसम्बन्धी भ्रामक फोटो र भिडियो नबनाउन वन कार्यालयको आग्रह",
     "link": "https://www.onlinekhabar.com/2026/11/2051265/forest-office-urges-ai-not-to-create-misleading-photos-and-videos-related-to-wildlife",
-    "image": "https://www.onlinekhabar.com/wp-content/uploads/2026/11/ban-office-1024x438.jpg",
+    "image": "",
     "published": "Thu, 05 Nov 2026 03:07:40 +0000"
   },
   {
@@ -75,6 +152,13 @@
     "link": "https://www.onlinekhabar.com/2026/11/2051274/champions-league-football-comos-9-goals-against-lens-post",
     "image": "",
     "published": "Thu, 05 Nov 2026 02:46:11 +0000"
+  },
+  {
+    "category": "नेपाल समाचार",
+    "title": "इजरायलसँगको सम्बन्ध रिपब्लिकनहरूका लागि राजनीतिक भार बन्यो : जेडी भान्स",
+    "link": "https://www.onlinekhabar.com/2026/11/2051312/relations-with-israel-have-become-a-political-burden-for-republicans-j-d-vance",
+    "image": "",
+    "published": "Thu, 05 Nov 2026 02:41:51 +0000"
   },
   {
     "category": "नेपाल समाचार",
@@ -126,101 +210,17 @@
     "published": "Thu, 05 Nov 2026 01:37:55 +0000"
   },
   {
-    "category": "नेपाल समाचार",
-    "title": "आज पश्चिमी वायुको आंशिक प्रभाव, पहाडी क्षेत्रमा हल्का वर्षाको सम्भावना",
-    "link": "https://www.onlinekhabar.com/2026/11/2051251/partial-influence-of-westerly-winds-today-possibility-of-light-rain-in-hilly-areas",
-    "image": "",
-    "published": "Thu, 05 Nov 2026 01:34:12 +0000"
-  },
-  {
-    "category": "नेपाल समाचार",
-    "title": "एनपीएलमा आज लुम्बिनी र जनकपुर तथा विराटनगर र काठमान्डु भिड्ने",
-    "link": "https://www.onlinekhabar.com/2026/11/2051245/lumbini-and-janakpur-and-biratnagar-and-kathmandu-will-clash-today-in-npl",
-    "image": "",
-    "published": "Thu, 05 Nov 2026 01:12:34 +0000"
-  },
-  {
-    "category": "नेपाल समाचार",
-    "title": "बाढीले बगर बनाएको खेतमा बदामखेती",
-    "link": "https://www.onlinekhabar.com/2026/11/2051240/almond-farming-in-a-field-devastated-by-floods",
-    "image": "",
-    "published": "Thu, 05 Nov 2026 00:43:35 +0000"
-  },
-  {
-    "category": "नेपाल समाचार",
-    "title": "रेल सेवा व्यवस्थित गर्न माग",
-    "link": "https://www.onlinekhabar.com/2026/11/2051236/demand-to-organize-rail-services",
-    "image": "",
-    "published": "Thu, 05 Nov 2026 00:37:26 +0000"
-  },
-  {
-    "category": "नेपाल समाचार",
-    "title": "ट्रम्पको मध्यावधि चुनावी हारले इरान, इजरायल र युक्रेनमा कस्तो असर पार्ला ?",
-    "link": "https://www.onlinekhabar.com/2026/11/2051234/how-will-trumps-midterm-election-defeat-affect-iran-israel-and-ukraine",
-    "image": "",
-    "published": "Thu, 05 Nov 2026 00:36:08 +0000"
-  },
-  {
-    "category": "नेपाल समाचार",
-    "title": "प्रधानमन्त्री बालेनलाई भेट्दै भारतीय विदेश सचिव, आजै स्वदेश फर्किने",
-    "link": "https://www.onlinekhabar.com/2026/11/2051229/indian-foreign-secretary-meets-prime-minister-balen-will-return-home-today",
-    "image": "",
-    "published": "Wed, 04 Nov 2026 23:53:39 +0000"
-  },
-  {
-    "category": "नेपाल समाचार",
-    "title": "राष्ट्र बैंकले आजदेखि बेच्दैछ सुन-चाँदीका सिक्का, खरिदकर्ताको परिचयपत्र चाहिने",
-    "link": "https://www.onlinekhabar.com/2026/11/2051205/nepal-rastra-bank-to-sell-gold-and-silver-coins-from-today-buyers-id-required",
-    "image": "",
-    "published": "Wed, 04 Nov 2026 23:41:14 +0000"
-  },
-  {
-    "category": "नेपाल समाचार",
-    "title": "अमेरिकी डलरको भाउ घट्यो, युरो र पाउण्डको बढ्यो",
-    "link": "https://www.onlinekhabar.com/2026/11/2051124/us-dollar-falls-euro-and-pound-rise",
-    "image": "",
-    "published": "Wed, 04 Nov 2026 23:15:48 +0000"
-  },
-  {
-    "category": "नेपाल समाचार",
-    "title": "मिठाइ कति सुरक्षित ?",
-    "link": "https://www.onlinekhabar.com/2026/11/2050568/how-safe-are-sweets-433-shops-outside-standards",
-    "image": "",
-    "published": "Wed, 04 Nov 2026 16:13:27 +0000"
-  },
-  {
-    "category": "नेपाल समाचार",
-    "title": "३० वर्षअघिको खेल दोहोर्‍याउँदै सरकारले प्रहरीभित्र मच्चायो भद्रगोल",
-    "link": "https://www.onlinekhabar.com/2026/11/2051159/the-government-created-chaos-within-the-police-force-by-repeating-the-game-of-30-years-ago",
-    "image": "",
-    "published": "Wed, 04 Nov 2026 16:12:39 +0000"
-  },
-  {
-    "category": "नेपाल समाचार",
-    "title": "प्रहरीको ३४औं आईजीपी बनेका मनोज केसी को हुन् ?",
-    "link": "https://www.onlinekhabar.com/2026/11/2050915/who-is-manoj-kc-who-has-become-the-34th-igp-of-nepal-police",
-    "image": "",
-    "published": "Wed, 04 Nov 2026 16:11:51 +0000"
-  },
-  {
-    "category": "नेपाल समाचार",
-    "title": "प्रधानमन्त्रीको भारत भ्रमण : एजेन्डा छन्, तयारी छैन",
-    "link": "https://www.onlinekhabar.com/2026/11/2051178/prime-ministers-visit-to-india-agenda-no-preparations",
-    "image": "",
-    "published": "Wed, 04 Nov 2026 16:10:49 +0000"
-  },
-  {
     "category": "सेतोपाटी",
-    "title": "पुनर्बीमा कम्पनीको सेयर मूल्य वृद्धि– हकप्रद आउने भन्दैमा बढ्नुपर्ने हो?",
-    "link": "https://www.setopati.com/kinmel/banking/402034",
+    "title": "होल्डिङ सेन्टरका बाढीपीडित भन्छन्– सधैँ काठमाडौं बस्न सकिँदैन, थातथलो फर्कन्छौं",
+    "link": "https://www.setopati.com/social/402048",
     "image": "",
-    "published": "Thu, 05 Nov 2026 09:32:00 +0545"
+    "published": "Thu, 05 Nov 2026 11:51:15 +0545"
   },
   {
     "category": "रातोपाटी",
-    "title": "लोकाहा खोलाको पुरानो ट्रस पुल मर्मत सुरु, नयाँ पुलबाट सवारी साधन सञ्चालन",
-    "link": "https://www.ratopati.com/story/603444/repair-of-old-truss-bridge-over-lokaha-river-begins-vehicles-can-operate-from-new-bridge",
-    "image": "https://npcdn.ratopati.com/media/news/teko_Aarw7eZQWz.webp",
-    "published": "Thu, 05 Nov 2026 03:57:21 +0000"
+    "title": "नेपालले गुमायो साफ च्याम्पियनसिप खेल्ने अवसर",
+    "link": "https://www.ratopati.com/story/603473/nepal-lost-the-opportunity-to-play-in-the-saff-championship",
+    "image": "https://npcdn.ratopati.com/media/news/capture_3eD4TXOV2Z.webp",
+    "published": "Thu, 05 Nov 2026 06:04:28 +0000"
   }
 ]
