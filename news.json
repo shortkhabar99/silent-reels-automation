@@ -1,72 +1,198 @@
 [
   {
     "category": "नेपाल समाचार",
+    "title": "ट्राफिकलाइट प्रयोगबारे सचेतना जगाउँदै भरतपुर महानगरपालिका",
+    "link": "https://www.onlinekhabar.com/2026/11/2051917/bharatpur-metropolitan-city-raising-awareness-about-the-use-of-traffic-lights",
+    "image": "https://www.onlinekhabar.com/wp-content/uploads/2017/11/traffic-light.jpg",
+    "published": "Thu, 05 Nov 2026 11:52:13 +0000"
+  },
+  {
+    "category": "नेपाल समाचार",
+    "title": "शिक्षामन्त्रीले भनेझैं फिर्ता भएको छैन त्रिविको ७०० रोपनी जग्गा",
+    "link": "https://www.onlinekhabar.com/2026/11/2051870/tribhuvan-universitys-700-ropanis-of-land-has-not-been-returned-as-promised-by-the-education-minister",
+    "image": "https://www.onlinekhabar.com/wp-content/uploads/2026/11/sasmit-pokharel-3-1024x500.jpg",
+    "published": "Thu, 05 Nov 2026 11:38:24 +0000"
+  },
+  {
+    "category": "नेपाल समाचार",
+    "title": "जनकपुरधाम–अयोध्या विशेष रेल सेवाको परीक्षण, पर्यटन र व्यापार फस्टाउने आशा",
+    "link": "https://www.onlinekhabar.com/2026/11/2051868/janakpurdham-ayodhya-special-train-service-trial-hopes-for-tourism-and-trade-boom",
+    "image": "https://www.onlinekhabar.com/wp-content/uploads/2026/11/Janakpur-Ayodhya-Rail-1024x500.jpg",
+    "published": "Thu, 05 Nov 2026 11:22:31 +0000"
+  },
+  {
+    "category": "नेपाल समाचार",
+    "title": "गगन थापाको प्रतिवाद– ‘प्रायोजित प्रचारबाजी मेरो वरिपरि ल्याइएको छ’",
+    "link": "https://www.onlinekhabar.com/2026/11/2051862/the-sponsored-manufacturing-narrative-has-been-brought-around-me",
+    "image": "https://www.onlinekhabar.com/wp-content/uploads/2026/02/Gagan-thapa-1024x487.jpg",
+    "published": "Thu, 05 Nov 2026 11:16:31 +0000"
+  },
+  {
+    "category": "नेपाल समाचार",
+    "title": "प्रधानमन्त्री कार्यालयको २०७ नम्बर कोठामा कार्कीलाई छुट्टै कार्यकक्ष, पत्र लिन गएनन्",
+    "link": "https://www.onlinekhabar.com/2026/11/2051851/karki-has-a-separate-office-in-room-2070-of-the-prime-ministers-office-he-did-not-go-to-pick-up-the-letter",
+    "image": "https://www.onlinekhabar.com/wp-content/uploads/2026/11/Danbahadur-karki-1024x500.jpg",
+    "published": "Thu, 05 Nov 2026 11:16:10 +0000"
+  },
+  {
+    "category": "नेपाल समाचार",
+    "title": "यामाहा एक्सएसआर १५५ : क्लासिक लुक्स र आधुनिक प्रविधि संयोजन (भिडियो)",
+    "link": "https://www.onlinekhabar.com/2026/11/2051848/yamaha-xsr-155-a-combination-of-classic-looks-and-modern-technology-video",
+    "image": "https://www.onlinekhabar.com/wp-content/uploads/2026/11/SKR04012-1024x683.jpg",
+    "published": "Thu, 05 Nov 2026 11:15:51 +0000"
+  },
+  {
+    "category": "नेपाल समाचार",
+    "title": "इजरायलले गाजामा बाल स्वास्थ्य र उपचार अस्वीकार गर्दछ : मानवअधिकारवादी",
+    "link": "https://www.onlinekhabar.com/2026/11/2051856/israel-denies-children-health-and-treatment-in-gaza-human-rights-activist",
+    "image": "https://www.onlinekhabar.com/wp-content/uploads/2025/10/Gaja.jpg",
+    "published": "Thu, 05 Nov 2026 11:11:41 +0000"
+  },
+  {
+    "category": "नेपाल समाचार",
+    "title": "काठमान्डुले टस जित्यो, विराटनगरलाई ब्याटिङको निम्तो",
+    "link": "https://www.onlinekhabar.com/2026/11/2051839/kathmandu-wins-the-toss-invites-biratnagar-to-bat",
+    "image": "https://www.onlinekhabar.com/wp-content/uploads/2026/11/Ktm-vs-birat-1024x500.png",
+    "published": "Thu, 05 Nov 2026 11:02:00 +0000"
+  },
+  {
+    "category": "नेपाल समाचार",
+    "title": "एउटा घारबाट सुरु भएको मौरीपालन : बन्दैछ आम्दानीको भरपर्दो आधार",
+    "link": "https://www.onlinekhabar.com/2026/11/2051834/beekeeping-that-started-with-a-single-hive-becoming-a-reliable-source-of-income",
+    "image": "https://www.onlinekhabar.com/wp-content/uploads/2026/11/auri.jpg",
+    "published": "Thu, 05 Nov 2026 10:54:04 +0000"
+  },
+  {
+    "category": "नेपाल समाचार",
+    "title": "अन्तर्राष्ट्रिय फुटबलबाट क्रिस्टियानो रोनाल्डोको सन्यास घोषणा",
+    "link": "https://www.onlinekhabar.com/2026/11/2051827/cristiano-ronaldo-announces-retirement-from-international-football",
+    "image": "https://www.onlinekhabar.com/wp-content/uploads/2026/06/Cristiano-Portugal-2026-Congo-1024x682.jpeg",
+    "published": "Thu, 05 Nov 2026 10:49:04 +0000"
+  },
+  {
+    "category": "नेपाल समाचार",
+    "title": "म कमजोर धरातलमा उभिएको छैन : गगन थापा",
+    "link": "https://www.onlinekhabar.com/2026/11/2051826/i-am-not-standing-on-low-ground-gagan-thapa",
+    "image": "",
+    "published": "Thu, 05 Nov 2026 10:45:11 +0000"
+  },
+  {
+    "category": "नेपाल समाचार",
+    "title": "सर्वोच्चमा प्रस्तावित चार न्यायाधीशविरुद्ध शुक्रबार शनिबार संसदीय सुनुवाइ",
+    "link": "https://www.onlinekhabar.com/2026/11/2051824/parliamentary-hearings-against-four-proposed-supreme-court-judges-to-be-held-on-friday-and-saturday",
+    "image": "",
+    "published": "Thu, 05 Nov 2026 10:40:02 +0000"
+  },
+  {
+    "category": "नेपाल समाचार",
+    "title": "कांग्रेस आधिकारिकताको लडाइँमा एक सुका पनि लेनदेन छैन: गगन थापा",
+    "link": "https://www.onlinekhabar.com/2026/11/2051822/not-a-single-penny-is-being-spent-in-the-fight-for-congress-legitimacy-gagan-thapa",
+    "image": "",
+    "published": "Thu, 05 Nov 2026 10:29:54 +0000"
+  },
+  {
+    "category": "नेपाल समाचार",
+    "title": "भक्तपुरमा ट्रकको ठक्करबाट मोटरसाइकल चालक महिलाको मृत्यु",
+    "link": "https://www.onlinekhabar.com/2026/11/2051820/female-motorcyclist-dies-after-being-hit-by-truck-in-bhaktapur",
+    "image": "",
+    "published": "Thu, 05 Nov 2026 10:27:57 +0000"
+  },
+  {
+    "category": "नेपाल समाचार",
+    "title": "‘दशौं राष्ट्रिय खेलकुदको सबै तयारी पूरा भएको छ’",
+    "link": "https://www.onlinekhabar.com/2026/11/2051530/all-preparations-for-the-10th-national-games-have-been-completed",
+    "image": "",
+    "published": "Thu, 05 Nov 2026 10:23:58 +0000"
+  },
+  {
+    "category": "नेपाल समाचार",
+    "title": "रूपन्देहीमा एक पुरुष मृत फेला",
+    "link": "https://www.onlinekhabar.com/2026/11/2051812/a-man-was-found-dead-in-rupandehi",
+    "image": "",
+    "published": "Thu, 05 Nov 2026 10:21:57 +0000"
+  },
+  {
+    "category": "नेपाल समाचार",
+    "title": "बलरको उत्कृष्ट प्रदर्शनमा लुम्बिनीको अपराजित यात्रा कायम, जनकपुरको तेस्रो हार",
+    "link": "https://www.onlinekhabar.com/2026/11/2051816/lumbinis-undefeated-journey-continues-with-excellent-performance-from-bowlers-janakpur-suffers-third-defeat",
+    "image": "",
+    "published": "Thu, 05 Nov 2026 10:16:07 +0000"
+  },
+  {
+    "category": "नेपाल समाचार",
+    "title": "इनम सापकोटा प्रकरणमा सत्ताको चरम दुरुपयोग भयो : पद्मा अर्याल",
+    "link": "https://www.onlinekhabar.com/2026/11/2051813/extreme-abuse-of-power-in-inam-sapkota-case-padma-aryal",
+    "image": "",
+    "published": "Thu, 05 Nov 2026 10:10:30 +0000"
+  },
+  {
+    "category": "नेपाल समाचार",
     "title": "चन्द्रागिरीमा पटका सहित एक जना पक्राउ",
     "link": "https://www.onlinekhabar.com/2026/11/2051798/one-arrested-with-firecrackers-in-chandragiri",
-    "image": "https://www.onlinekhabar.com/wp-content/uploads/2020/01/arrested.jpg",
+    "image": "",
     "published": "Thu, 05 Nov 2026 09:57:14 +0000"
   },
   {
     "category": "नेपाल समाचार",
     "title": "भ्रष्टतन्त्रको सफाइ गर्छौं, अर्को चुनावबाट झन् ठूलो शक्ति भएर आउँछौं : अर्थमन्त्री",
     "link": "https://www.onlinekhabar.com/2026/11/2051795/we-will-clean-up-the-corrupt-system-and-emerge-as-an-even-greater-force-in-the-next-election-finance-minister",
-    "image": "https://www.onlinekhabar.com/wp-content/uploads/2026/07/swarnim-wagle-10.jpg",
+    "image": "",
     "published": "Thu, 05 Nov 2026 09:55:54 +0000"
   },
   {
     "category": "नेपाल समाचार",
     "title": "३२ लाखभन्दा बढी मूल्यका माछासहित ट्रक नियन्त्रणमा",
     "link": "https://www.onlinekhabar.com/2026/11/2051771/truck-with-fish-worth-over-rs-3-2-million-seized",
-    "image": "https://www.onlinekhabar.com/wp-content/uploads/2026/11/machhca.jpg",
+    "image": "",
     "published": "Thu, 05 Nov 2026 09:52:55 +0000"
   },
   {
     "category": "नेपाल समाचार",
     "title": "के दीपकराज गिरी आध्यात्मिक जीवनमा मग्न छन् ?",
     "link": "https://www.onlinekhabar.com/2026/11/2051787/is-deepak-raj-giri-engaged-in-spiritual-life",
-    "image": "https://www.onlinekhabar.com/wp-content/uploads/2026/11/deepakraj-giri-11-1024x663.jpg",
+    "image": "",
     "published": "Thu, 05 Nov 2026 09:52:44 +0000"
   },
   {
     "category": "नेपाल समाचार",
     "title": "ग्राहकको रोजाइमा अनलाइन सपिङ, अस्ट्रेलियाकै पुरानो डिपार्टमेन्ट स्टोर संकटमा",
     "link": "https://www.onlinekhabar.com/2026/11/2051788/online-shopping-at-the-customers-choice-australias-oldest-department-store-in-crisis",
-    "image": "https://www.onlinekhabar.com/wp-content/uploads/2026/11/Shopping.jpg",
+    "image": "",
     "published": "Thu, 05 Nov 2026 09:52:32 +0000"
   },
   {
     "category": "नेपाल समाचार",
     "title": "‘सुरक्षामा कमजोरी नहोस्, अपराध नियन्त्रणमा शून्य सहनशीलता अपनाउनुस्’",
     "link": "https://www.onlinekhabar.com/2026/11/2051776/there-should-be-no-weakness-in-security-adopt-zero-tolerance-in-crime-control",
-    "image": "https://www.onlinekhabar.com/wp-content/uploads/2026/11/PM-with-security-chief-1024x500.jpg",
+    "image": "",
     "published": "Thu, 05 Nov 2026 09:48:45 +0000"
   },
   {
     "category": "नेपाल समाचार",
     "title": "रोयल इन्फिल्डको ‘मिस्टिक मुस्ताङ राइड २’ मा ४० महिला राइडर सहभागी",
     "link": "https://www.onlinekhabar.com/2026/11/2051774/40-female-riders-participate-in-royal-enfields-mystic-mustang-ride-2",
-    "image": "https://www.onlinekhabar.com/wp-content/uploads/2026/11/royal_enfield_-1024x620.jpg",
+    "image": "",
     "published": "Thu, 05 Nov 2026 09:43:43 +0000"
   },
   {
     "category": "नेपाल समाचार",
     "title": "पटका पड्काउँदा कसलाई कस्तो असर पर्छ ?",
     "link": "https://www.onlinekhabar.com/2026/11/2051770/who-is-affected-by-bursting-firecrackers",
-    "image": "https://www.onlinekhabar.com/wp-content/uploads/2026/11/pataka-1.jpg",
+    "image": "",
     "published": "Thu, 05 Nov 2026 09:37:20 +0000"
   },
   {
     "category": "नेपाल समाचार",
     "title": "कारोबारसँगै घट्यो सेयर बजार, ५६ कम्पनीको मूल्य बढ्यो",
     "link": "https://www.onlinekhabar.com/2026/11/2051763/stock-market-declines-with-trading-56-companies-gain",
-    "image": "https://www.onlinekhabar.com/wp-content/uploads/2026/11/stock_kartik19-1024x568.jpg",
+    "image": "",
     "published": "Thu, 05 Nov 2026 09:30:38 +0000"
   },
   {
     "category": "नेपाल समाचार",
     "title": "जिम्मेवारी तोकिएको साढे तीन महिना बित्दा पनि कांग्रेस सांसदले बुझाएनन् प्रतिवेदन",
     "link": "https://www.onlinekhabar.com/2026/11/2051749/even-after-three-and-a-half-months-of-the-assigned-responsibility-the-congress-mp-has-not-submitted-the-report",
-    "image": "https://www.onlinekhabar.com/wp-content/uploads/2026/11/Congress-sansadiya-dal-1024x500.jpg",
+    "image": "",
     "published": "Thu, 05 Nov 2026 09:29:39 +0000"
   },
   {
@@ -84,143 +210,17 @@
     "published": "Thu, 05 Nov 2026 09:08:18 +0000"
   },
   {
-    "category": "नेपाल समाचार",
-    "title": "कान्तिपुर फर्मास्युटिकल्सले पायो आईपीओ अनुमति",
-    "link": "https://www.onlinekhabar.com/2026/11/2051733/kantipur-pharmaceuticals-receives-ipo-approval",
-    "image": "",
-    "published": "Thu, 05 Nov 2026 09:06:58 +0000"
-  },
-  {
-    "category": "नेपाल समाचार",
-    "title": "नवलपरासी र धनुषाबाट जुवातास खेलिरहेको अवस्थामा १६ जना पक्राउ",
-    "link": "https://www.onlinekhabar.com/2026/11/2051734/16-people-arrested-while-gambling-from-nawalparasi-and-dhanusha",
-    "image": "",
-    "published": "Thu, 05 Nov 2026 09:06:11 +0000"
-  },
-  {
-    "category": "नेपाल समाचार",
-    "title": "‘रामायण’मा युद्ध दृश्यलाई लिएर विवाद, के सीताले १४ हजार राक्षससँग लडेकी थिइन् ?",
-    "link": "https://www.onlinekhabar.com/2026/11/2051689/controversy-over-battle-scene-in-ramayana-did-sita-fight-14000-demons",
-    "image": "",
-    "published": "Thu, 05 Nov 2026 09:05:07 +0000"
-  },
-  {
-    "category": "नेपाल समाचार",
-    "title": "अजरवैजान र क्यानडा पठाइदिन्छु भन्दै ठगी गर्ने दुई जना पक्राउ",
-    "link": "https://www.onlinekhabar.com/2026/11/2051717/two-arrested-for-fraud-promising-to-send-people-to-azerbaijan-and-canada",
-    "image": "",
-    "published": "Thu, 05 Nov 2026 09:01:54 +0000"
-  },
-  {
-    "category": "नेपाल समाचार",
-    "title": "अवैध लागुऔषधसहित देशका विभिन्न स्थानबाट ९ जना पक्राउ",
-    "link": "https://www.onlinekhabar.com/2026/11/2051715/9-people-arrested-from-various-parts-of-the-country-with-illegal-drugs",
-    "image": "",
-    "published": "Thu, 05 Nov 2026 08:58:31 +0000"
-  },
-  {
-    "category": "नेपाल समाचार",
-    "title": "अमेरिकी मध्यावधि निर्वाचनको नतिजाले युक्रेनलाई थप सहयोग मिल्ने जेलेन्स्कीको आशा",
-    "link": "https://www.onlinekhabar.com/2026/11/2051702/zelensky-hopes-us-midterm-election-results-will-lead-to-more-aid-for-ukraine",
-    "image": "",
-    "published": "Thu, 05 Nov 2026 08:55:03 +0000"
-  },
-  {
-    "category": "नेपाल समाचार",
-    "title": "सहरमा नवीन प्यासी",
-    "link": "https://www.onlinekhabar.com/2026/11/2051684/new-thirsty-in-the-city",
-    "image": "",
-    "published": "Thu, 05 Nov 2026 08:53:24 +0000"
-  },
-  {
-    "category": "नेपाल समाचार",
-    "title": "आयकर ऐन दफा ५७ नलाग्ने भए धेरै ग्यास उद्योग मर्जरमा जान तयार",
-    "link": "https://www.onlinekhabar.com/2026/11/2051692/many-gas-industries-ready-to-merge-if-section-57-of-the-income-tax-act-is-not-applicable",
-    "image": "",
-    "published": "Thu, 05 Nov 2026 08:51:54 +0000"
-  },
-  {
-    "category": "नेपाल समाचार",
-    "title": "आईक्यापको स्ट्यान्डिङ कमिटीमा कांग्रेसका उपसभापति चौधरी निर्वाचित, के भने ?",
-    "link": "https://www.onlinekhabar.com/2026/11/2051696/congress-vice-president-chaudhary-elected-to-icap-standing-committee-what-did-he-say",
-    "image": "",
-    "published": "Thu, 05 Nov 2026 08:51:28 +0000"
-  },
-  {
-    "category": "नेपाल समाचार",
-    "title": "निमन्त्रणा सविना काफ्लेको नाममा, ट्याग फर्स्ट लेडीको",
-    "link": "https://www.onlinekhabar.com/2026/11/2051677/invitation-in-the-name-of-sabina-kafle-tag-of-the-first-lady",
-    "image": "",
-    "published": "Thu, 05 Nov 2026 08:50:16 +0000"
-  },
-  {
-    "category": "नेपाल समाचार",
-    "title": "लगानी सम्मेलनअघि ५९ वटा ऐन संशोधनको तयारी छ : मन्त्री लम्साल",
-    "link": "https://www.onlinekhabar.com/2026/11/2051687/preparations-underway-to-amend-59-acts-before-investment-summit-minister-lamsal",
-    "image": "",
-    "published": "Thu, 05 Nov 2026 08:48:42 +0000"
-  },
-  {
-    "category": "नेपाल समाचार",
-    "title": "छठमा जातीय विभेद र छुवाछुत नगर्न तथा छुट्टै घाट नबनाउन मन्त्रालयको आग्रह",
-    "link": "https://www.onlinekhabar.com/2026/11/2051673/ministry-urges-against-caste-discrimination-untouchability-and-separate-ghats-during-chhath",
-    "image": "",
-    "published": "Thu, 05 Nov 2026 08:43:29 +0000"
-  },
-  {
-    "category": "नेपाल समाचार",
-    "title": "जलवायु परिवर्तनको असर न्यूनीकरणमा संस्थागत सहकार्य आवश्यक : मन्त्री पौडेल",
-    "link": "https://www.onlinekhabar.com/2026/11/2051680/institutional-cooperation-necessary-to-mitigate-the-impact-of-climate-change-minister-poudel",
-    "image": "",
-    "published": "Thu, 05 Nov 2026 08:42:35 +0000"
-  },
-  {
-    "category": "नेपाल समाचार",
-    "title": "चिनियाँ पूर्वपोलिटब्युरो सदस्य माविरुद्ध घुसको अभियोग",
-    "link": "https://www.onlinekhabar.com/2026/11/2051666/former-chinese-politburo-member-ma-charged-with-bribery",
-    "image": "",
-    "published": "Thu, 05 Nov 2026 08:36:50 +0000"
-  },
-  {
-    "category": "नेपाल समाचार",
-    "title": "पुस २ देखि विराटनगरमा ‘विराट एक्स्पो’",
-    "link": "https://www.onlinekhabar.com/2026/11/2051667/virat-expo-to-be-held-in-biratnagar-from-december-2",
-    "image": "",
-    "published": "Thu, 05 Nov 2026 08:36:34 +0000"
-  },
-  {
-    "category": "नेपाल समाचार",
-    "title": "बहालवाला आईजीपीलाई अन्यत्र जिम्मेवारी दिन मिल्छ कि मिल्दैन ?",
-    "link": "https://www.onlinekhabar.com/2026/11/2051486/can-the-current-igp-be-given-responsibility-elsewhere-or-not",
-    "image": "",
-    "published": "Thu, 05 Nov 2026 08:33:13 +0000"
-  },
-  {
-    "category": "नेपाल समाचार",
-    "title": "मेलमिलापलाई भरोसायोग्य बनाउन न्यायाधीशलाई मेलमिलापकर्ता बनाउने प्रस्ताव गरेका हौं : कानुनमन्त्री",
-    "link": "https://www.onlinekhabar.com/2026/11/2051660/to-make-mediation-credible-we-have-proposed-making-judges-mediators-law-minister",
-    "image": "",
-    "published": "Thu, 05 Nov 2026 08:33:05 +0000"
-  },
-  {
-    "category": "नेपाल समाचार",
-    "title": "कसैप्रति प्रतिशोध साधिँदैन, सूचना चुहावट गर्नेलाई शून्य सहनशीलताको नीति लिइन्छ : आईजीपी केसी",
-    "link": "https://www.onlinekhabar.com/2026/11/2051643/no-retaliation-will-be-taken-against-anyone-zero-tolerance-policy-will-be-adopted-for-those-who-leak-information-igp-kc",
-    "image": "",
-    "published": "Thu, 05 Nov 2026 08:25:30 +0000"
-  },
-  {
     "category": "सेतोपाटी",
-    "title": "प्रधानमन्त्री बालेन र भारतीय विदेश सचिव मिस्रीबीच के-के भयो कुराकानी?",
-    "link": "https://www.setopati.com/politics/402089",
+    "title": "रातो कप!",
+    "link": "https://www.setopati.com/literature/402107",
     "image": "",
-    "published": "Thu, 05 Nov 2026 15:54:04 +0545"
+    "published": "Thu, 05 Nov 2026 17:37:00 +0545"
   },
   {
     "category": "रातोपाटी",
-    "title": "व्यर्थैमा बित्यो कर्णालीका मुख्यमन्त्रीको ‘हनिमुन पिरियड’ : एक्सन न रियाक्सन",
-    "link": "https://www.ratopati.com/story/603547/karnali-chief-ministers-honeymoon-period-wasted-action-or-reaction",
-    "image": "https://npcdn.ratopati.com/media/news/mangal-shahi1_tlRCT1jUyt.webp",
-    "published": "Thu, 05 Nov 2026 10:03:52 +0000"
+    "title": "नेपाल पूर्वाधार सम्मेलनले क्रमभङ्गतालाई जोड दिनेछ : अर्थमन्त्री वाग्ले",
+    "link": "https://www.ratopati.com/story/603579/nepal-infrastructure-conference-will-emphasize-fragmentation-finance-minister-wagle",
+    "image": "https://npcdn.ratopati.com/media/news/swornim-wagle_rVZvcYwCtf.jpg",
+    "published": "Thu, 05 Nov 2026 11:57:45 +0000"
   }
 ]
