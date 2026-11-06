@@ -1,232 +1,65 @@
 
-import json
-import os
-import textwrap
-import subprocess
-import glob
-import requests
-import imageio_ffmpeg
-import nepali_datetime
+name: Instagram Reel Automation
 
-from io import BytesIO
-from datetime import datetime, timezone, timedelta
-from PIL import Image, ImageDraw, ImageFont, ImageOps
-import imageio.v2 as imageio
-import numpy as np
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '*/30 * * * *'
 
-WIDTH = 1080
-HEIGHT = 1920
-FPS = 15
-DURATION = 6
+permissions:
+  contents: write
 
-os.makedirs("reels", exist_ok=True)
+concurrency:
+  group: instagram-reel-automation
+  cancel-in-progress: false
 
-# LOAD NEWS
-with open("news.json", encoding="utf-8") as f:
-    news = json.load(f)
+jobs:
+  publish-reels:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
 
-if len(news) < 10:
-    raise ValueError("At least 10 news items are required")
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
 
-# FIND NEPALI FONT
-font_files = (
-    glob.glob("/usr/share/fonts/truetype/noto/*Devanagari*Bold*.ttf")
-    + glob.glob("/usr/share/fonts/truetype/noto/*devanagari*bold*.ttf")
-)
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
 
-if not font_files:
-    raise FileNotFoundError("Nepali font not found")
+      - name: Install fonts
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y fonts-noto-core
 
-nepali_font = font_files[0]
-english_font = "/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf"
+      - name: Install packages
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+          pip install cloudinary
 
-headline_font = ImageFont.truetype(nepali_font, 58)
-category_font = ImageFont.truetype(nepali_font, 42)
-date_font = ImageFont.truetype(nepali_font, 38)
-english_big = ImageFont.truetype(english_font, 42)
-english_small = ImageFont.truetype(english_font, 32)
+      - name: Update news
+        run: python main.py
 
-# NEPAL DATE
-nepal_time = datetime.now(timezone.utc) + timedelta(hours=5, minutes=45)
-bs_date = nepali_datetime.date.from_datetime_date(nepal_time.date())
+      - name: Generate reels if queue is empty
+        run: |
+          python -c "import os,glob,json,sys; s=json.load(open('publish_state.json')) if os.path.exists('publish_state.json') else {'published': []}; files=glob.glob('reels/*.mp4'); sys.exit(0 if any(f not in s.get('published',[]) for f in files) else 1)" || python make_reels.py
 
-nepali_digits = str.maketrans("0123456789", "०१२३४५६७८९")
+      - name: Verify reels
+        run: |
+          python -c "import glob,sys; f=glob.glob('reels/*.mp4'); print('Available reels:',len(f)); sys.exit(0 if f else 1)"
 
-months = [
-    "बैशाख", "जेठ", "असार", "साउन",
-    "भदौ", "असोज", "कात्तिक", "मंसिर",
-    "पुष", "माघ", "फागुन", "चैत"
-]
+      - name: Publish Instagram Reel
+        env:
+          CLOUDINARY_URL: ${{ secrets.CLOUDINARY_URL }}
+          INSTAGRAM_ACCOUNT_ID: ${{ secrets.INSTAGRAM_ACCOUNT_ID }}
+          PAGE_ACCESS_TOKEN: ${{ secrets.PAGE_ACCESS_TOKEN }}
+        run: python publish_instagram.py
 
-nepali_date = (
-    f"{bs_date.year} साल "
-    f"{months[bs_date.month - 1]} "
-    f"{bs_date.day} गते"
-).translate(nepali_digits)
-
-# CHECK MUSIC
-if not os.path.exists("news_music.mp3"):
-    raise FileNotFoundError("news_music.mp3 not found")
-
-ffmpeg = imageio_ffmpeg.get_ffmpeg_exe()
-timestamp = datetime.utcnow().strftime("%Y%m%d_%H%M%S")
-
-
-# DOWNLOAD PHOTO
-def download_photo(url):
-    if not url:
-        return None
-
-    try:
-        response = requests.get(
-            url,
-            timeout=15,
-            headers={"User-Agent": "Mozilla/5.0"}
-        )
-        response.raise_for_status()
-
-        photo = Image.open(BytesIO(response.content)).convert("RGB")
-
-        return ImageOps.fit(
-            photo,
-            (950, 600),
-            method=Image.Resampling.LANCZOS
-        )
-
-    except Exception as error:
-        print("Photo unavailable:", error)
-        return None
-
-
-# CREATE REELS
-for index, item in enumerate(news[:10], start=1):
-
-    image = Image.new("RGB", (WIDTH, HEIGHT), "#101827")
-    draw = ImageDraw.Draw(image)
-
-    # HEADER
-    draw.rectangle((0, 0, WIDTH, 210), fill="#c90020")
-
-    draw.text(
-        (65, 65),
-        "SHORT KHABAR",
-        font=english_big,
-        fill="white"
-    )
-
-    # NEPALI DATE
-    draw.text(
-        (65, 255),
-        nepali_date,
-        font=date_font,
-        fill="#ffcc33"
-    )
-
-    # CATEGORY
-    draw.text(
-        (65, 350),
-        item.get("category", "समाचार"),
-        font=category_font,
-        fill="#ffcc33"
-    )
-
-    # HEADLINE
-    headline = item.get("title", "ताजा समाचार")
-    lines = textwrap.wrap(headline, width=25)
-
-    y = 470
-
-    for line in lines[:4]:
-        draw.text(
-            (65, y),
-            line,
-            font=headline_font,
-            fill="white"
-        )
-        y += 95
-
-    # NEWS PHOTO
-    photo = download_photo(item.get("image", ""))
-
-    if photo:
-        image.paste(photo, (65, 900))
-        print("Photo added:", item.get("title", ""))
-
-    else:
-        draw.rounded_rectangle(
-            (65, 900, 1015, 1500),
-            radius=25,
-            fill="#263449"
-        )
-
-        draw.text(
-            (300, 1150),
-            "PHOTO NOT AVAILABLE",
-            font=english_small,
-            fill="white"
-        )
-
-    # FOOTER
-    draw.rectangle((0, 1650, WIDTH, 1920), fill="#c90020")
-
-    draw.text(
-        (65, 1730),
-        "FOLLOW FOR MORE UPDATES",
-        font=english_small,
-        fill="white"
-    )
-
-    # INSTAGRAM USERNAME
-    draw.rounded_rectangle(
-        (65, 1795, 650, 1890),
-        radius=25,
-        fill="#E1306C"
-    )
-
-    draw.text(
-        (90, 1815),
-        "@khabar.short",
-        font=english_small,
-        fill="white"
-    )
-
-    frame = np.array(image)
-
-    filename = f"reels/news_{timestamp}_{index:02d}.mp4"
-    temp_file = filename.replace(".mp4", "_silent.mp4")
-
-    # CREATE VIDEO
-    with imageio.get_writer(
-        temp_file,
-        fps=FPS,
-        codec="libx264",
-        macro_block_size=1
-    ) as writer:
-
-        for _ in range(FPS * DURATION):
-            writer.append_data(frame)
-
-    # ADD MUSIC
-    subprocess.run(
-        [
-            ffmpeg,
-            "-y",
-            "-i", temp_file,
-            "-stream_loop", "-1",
-            "-i", "news_music.mp3",
-            "-t", str(DURATION),
-            "-map", "0:v:0",
-            "-map", "1:a:0",
-            "-c:v", "copy",
-            "-c:a", "aac",
-            "-b:a", "128k",
-            filename
-        ],
-        check=True
-    )
-
-    os.remove(temp_file)
-
-    print("Nepali Date Photo Music Reel:", filename)
-
-print("SUCCESS: 10 Reels with Nepali Date created!")
+      - name: Save automation data
+        run: |
+          git config user.name "News Bot"
+          git config user.email "news-bot@users.noreply.github.com"
+          git add -A
+          git diff --cached --quiet || git commit -m "Update Instagram reel automation"
+          git push
