@@ -7,12 +7,10 @@ import hashlib
 import requests
 from urllib.parse import urlparse, unquote
 
-# GitHub Secrets
 CLOUDINARY_URL = os.environ["CLOUDINARY_URL"]
 INSTAGRAM_ID = os.environ["INSTAGRAM_ACCOUNT_ID"]
 ACCESS_TOKEN = os.environ["PAGE_ACCESS_TOKEN"]
 
-# Instagram Login API
 GRAPH_URL = "https://graph.instagram.com/v25.0"
 
 STATE_FILE = "publish_state.json"
@@ -42,7 +40,6 @@ def upload_to_cloudinary(video_path):
         raise ValueError("CLOUDINARY_URL format is incorrect")
 
     timestamp = int(time.time())
-
     signature_text = f"timestamp={timestamp}{api_secret}"
     signature = hashlib.sha1(
         signature_text.encode("utf-8")
@@ -100,7 +97,6 @@ def publish_reel(video_url, caption):
 
     print("Instagram media container created:", container_id)
 
-    # Wait for Instagram video processing
     for attempt in range(30):
         status = requests.get(
             f"{GRAPH_URL}/{container_id}",
@@ -129,7 +125,6 @@ def publish_reel(video_url, caption):
     else:
         raise TimeoutError("Instagram processing timed out")
 
-    # Publish Reel
     result = requests.post(
         f"{GRAPH_URL}/{INSTAGRAM_ID}/media_publish",
         data={
@@ -157,7 +152,6 @@ def main():
         print("No MP4 reels found in reels folder.")
         return
 
-    # Select the next unpublished Reel
     next_reel = next(
         (f for f in reel_files if f not in published),
         None
@@ -169,7 +163,6 @@ def main():
 
     print("Selected Reel:", next_reel)
 
-    # Upload video to public Cloudinary URL
     video_url = upload_to_cloudinary(next_reel)
 
     caption = (
@@ -177,10 +170,8 @@ def main():
         "#KhabarShort #NepalNews #BreakingNews #NewsUpdate"
     )
 
-    # Publish one Reel only
     publish_reel(video_url, caption)
 
-    # Save state only after successful publishing
     published.append(next_reel)
     state["published"] = published
     save_state(state)
