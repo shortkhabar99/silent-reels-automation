@@ -41,15 +41,43 @@ jobs:
       - name: Update news
         run: python main.py
 
-      - name: Generate reels if queue is empty
+      - name: Generate reels if none are pending
         run: |
-          python -c "import os,glob,json,sys; s=json.load(open('publish_state.json')) if os.path.exists('publish_state.json') else {'published': []}; files=glob.glob('reels/*.mp4'); sys.exit(0 if any(f not in s.get('published',[]) for f in files) else 1)" || python make_reels.py
+          python - <<'PY'
+          import os
+          import glob
+          import json
+
+          state_file = "publish_state.json"
+
+          if os.path.exists(state_file):
+              with open(state_file, encoding="utf-8") as f:
+                  state = json.load(f)
+          else:
+              state = {"published": []}
+
+          published = set(state.get("published", []))
+          reels = sorted(glob.glob("reels/*.mp4"))
+          pending = [f for f in reels if f not in published]
+
+          if not pending:
+              print("No pending reels. Generating new reels.")
+              os.makedirs("reels", exist_ok=True)
+              for f in glob.glob("reels/*.mp4"):
+                  os.remove(f)
+              state["published"] = []
+              with open(state_file, "w", encoding="utf-8") as f:
+                  json.dump(state, f, indent=2)
+              os.system("python make_reels.py")
+          else:
+              print("Pending reels:", len(pending))
+          PY
 
       - name: Verify reels
         run: |
           python -c "import glob,sys; f=glob.glob('reels/*.mp4'); print('Available reels:',len(f)); sys.exit(0 if f else 1)"
 
-      - name: Publish Instagram Reel
+      - name: Publish one Instagram Reel
         env:
           CLOUDINARY_URL: ${{ secrets.CLOUDINARY_URL }}
           INSTAGRAM_ACCOUNT_ID: ${{ secrets.INSTAGRAM_ACCOUNT_ID }}
